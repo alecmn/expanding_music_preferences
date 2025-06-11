@@ -1,0 +1,1798 @@
+user,question__text,question__step,response,user_group,factor
+0,This approach supports me in getting to know the new genre.,7,2.0,BS,helpfulness
+0,This approach motivates me to more delve into the new genre.,7,5.0,BS,helpfulness
+0,This approach is useful in exploring a new genre.,7,2.0,BS,helpfulness
+0,I found it easy to modify the recommendations in the recommender.,6,2.0,BS,control
+0,The recommender allows only limited control to modify the recommendations.,6,6.0,BS,control
+0,I feel in control of modifying the recommendations.,6,2.0,BS,control
+0,I can notice the recommendations going in the direction of the target.,6,2.0,BS,direction
+0,The recommended songs seem to be in between my preferences and the target.,6,2.0,BS,direction
+0,I feel like the recommended songs take my preferences into account.,6,2.0,BS,personalization
+0,I find the songs from the playlist appealing.,6,2.0,BS,personalization
+0,I would listen to the playlist again.,6,2.0,BS,personalization
+0,I understand how the recommended songs relate to my musical taste.,6,2.0,BS,understandability
+0,It is easy to grasp why I received these recommended songs.,6,5.0,BS,understandability
+0,The recommendation process is clear to me.,6,5.0,BS,understandability
+0,I enjoy the music from [target taste].,6,2.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,2.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the previous step.,6,2.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the previous step.,5,2.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,2.0,BS,affinity
+0,I enjoy the music from [target taste].,5,2.0,BS,affinity
+0,The recommendation process is clear to me.,5,5.0,BS,understandability
+0,It is easy to grasp why I received these recommended songs.,5,5.0,BS,understandability
+0,I understand how the recommended songs relate to my musical taste.,5,2.0,BS,understandability
+0,I would listen to the playlist again.,5,2.0,BS,personalization
+0,I find the songs from the playlist appealing.,5,2.0,BS,personalization
+0,I feel like the recommended songs take my preferences into account.,5,1.0,BS,personalization
+0,The recommended songs seem to be in between my preferences and the target.,5,1.0,BS,direction
+0,I can notice the recommendations going in the direction of the target.,5,2.0,BS,direction
+0,I feel in control of modifying the recommendations.,5,2.0,BS,control
+0,I feel in control of modifying the recommendations.,4,2.0,BS,control
+0,I can notice the recommendations going in the direction of the target.,4,2.0,BS,direction
+0,The recommended songs seem to be in between my preferences and the target.,4,3.0,BS,direction
+0,I feel like the recommended songs take my preferences into account.,4,1.0,BS,personalization
+0,I find the songs from the playlist appealing.,4,2.0,BS,personalization
+0,I would listen to the playlist again.,4,2.0,BS,personalization
+0,I understand how the recommended songs relate to my musical taste.,4,2.0,BS,understandability
+0,It is easy to grasp why I received these recommended songs.,4,2.0,BS,understandability
+0,The recommendation process is clear to me.,4,2.0,BS,understandability
+0,I enjoy the music from [target taste].,4,2.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,2.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the previous step.,4,2.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the previous step.,3,2.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,3.0,BS,affinity
+0,I enjoy the music from [target taste].,3,3.0,BS,affinity
+0,The recommendation process is clear to me.,3,2.0,BS,understandability
+0,It is easy to grasp why I received these recommended songs.,3,2.0,BS,understandability
+0,I understand how the recommended songs relate to my musical taste.,3,1.0,BS,understandability
+0,I would listen to the playlist again.,3,2.0,BS,personalization
+0,I find the songs from the playlist appealing.,3,3.0,BS,personalization
+0,I feel like the recommended songs take my preferences into account.,3,1.0,BS,personalization
+0,The recommended songs seem to be in between my preferences and the target.,3,2.0,BS,direction
+0,I can notice the recommendations going in the direction of the target.,3,2.0,BS,direction
+0,I feel in control of modifying the recommendations.,3,1.0,BS,control
+0,I feel in control of modifying the recommendations.,2,2.0,BS,control
+0,I can notice the recommendations going in the direction of the target.,2,4.0,BS,direction
+0,The recommended songs seem to be in between my preferences and the target.,2,2.0,BS,direction
+0,I feel like the recommended songs take my preferences into account.,2,2.0,BS,personalization
+0,I find the songs from the playlist appealing.,2,3.0,BS,personalization
+0,I would listen to the playlist again.,2,4.0,BS,personalization
+0,I understand how the recommended songs relate to my musical taste.,2,3.0,BS,understandability
+0,It is easy to grasp why I received these recommended songs.,2,4.0,BS,understandability
+0,The recommendation process is clear to me.,2,3.0,BS,understandability
+0,I enjoy the music from [target taste].,2,4.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,4.0,BS,affinity
+0,My enjoyment of music from [target taste] has increased since the previous step.,2,5.0,BS,affinity
+0,I enjoy the music from [target taste].,1,4.0,BS,affinity
+0,The recommendation process is clear to me.,1,3.0,BS,understandability
+0,It is easy to grasp why I received these recommended songs.,1,4.0,BS,understandability
+0,I understand how the recommended songs relate to my musical taste.,1,2.0,BS,understandability
+0,I would listen to the playlist again.,1,4.0,BS,personalization
+0,I find the songs from the playlist appealing.,1,3.0,BS,personalization
+0,I feel like the recommended songs take my preferences into account.,1,2.0,BS,personalization
+0,The recommended songs seem to be in between my preferences and the target.,1,5.0,BS,direction
+0,I can notice the recommendations going in the direction of the target.,1,3.0,BS,direction
+0,I feel in control of modifying the recommendations.,1,2.0,BS,control
+1,This approach supports me in getting to know the new genre.,7,5.0,SSP,helpfulness
+1,This approach motivates me to more delve into the new genre.,7,5.0,SSP,helpfulness
+1,This approach is useful in exploring a new genre.,7,5.0,SSP,helpfulness
+1,I found it easy to modify the recommendations in the recommender.,6,3.0,SSP,control
+1,The recommender allows only limited control to modify the recommendations.,6,4.0,SSP,control
+1,I feel in control of modifying the recommendations.,6,3.0,SSP,control
+1,I can notice the recommendations going in the direction of the target.,6,5.0,SSP,direction
+1,The recommended songs seem to be in between my preferences and the target.,6,4.0,SSP,direction
+1,I feel like the recommended songs take my preferences into account.,6,2.0,SSP,personalization
+1,I find the songs from the playlist appealing.,6,4.0,SSP,personalization
+1,I would listen to the playlist again.,6,5.0,SSP,personalization
+1,I understand how the recommended songs relate to my musical taste.,6,3.0,SSP,understandability
+1,It is easy to grasp why I received these recommended songs.,6,6.0,SSP,understandability
+1,The recommendation process is clear to me.,6,5.0,SSP,understandability
+1,I enjoy the music from [target taste].,6,5.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,5.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the previous step.,6,5.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the previous step.,5,4.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,5.0,SSP,affinity
+1,I enjoy the music from [target taste].,5,4.0,SSP,affinity
+1,The recommendation process is clear to me.,5,4.0,SSP,understandability
+1,It is easy to grasp why I received these recommended songs.,5,4.0,SSP,understandability
+1,I understand how the recommended songs relate to my musical taste.,5,3.0,SSP,understandability
+1,I would listen to the playlist again.,5,3.0,SSP,personalization
+1,I find the songs from the playlist appealing.,5,3.0,SSP,personalization
+1,I feel like the recommended songs take my preferences into account.,5,3.0,SSP,personalization
+1,The recommended songs seem to be in between my preferences and the target.,5,4.0,SSP,direction
+1,I can notice the recommendations going in the direction of the target.,5,4.0,SSP,direction
+1,I feel in control of modifying the recommendations.,5,3.0,SSP,control
+1,I feel in control of modifying the recommendations.,4,4.0,SSP,control
+1,I can notice the recommendations going in the direction of the target.,4,4.0,SSP,direction
+1,The recommended songs seem to be in between my preferences and the target.,4,4.0,SSP,direction
+1,I feel like the recommended songs take my preferences into account.,4,3.0,SSP,personalization
+1,I find the songs from the playlist appealing.,4,4.0,SSP,personalization
+1,I would listen to the playlist again.,4,5.0,SSP,personalization
+1,I understand how the recommended songs relate to my musical taste.,4,4.0,SSP,understandability
+1,It is easy to grasp why I received these recommended songs.,4,5.0,SSP,understandability
+1,The recommendation process is clear to me.,4,5.0,SSP,understandability
+1,I enjoy the music from [target taste].,4,4.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,4.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the previous step.,4,5.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the previous step.,3,4.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,4.0,SSP,affinity
+1,I enjoy the music from [target taste].,3,3.0,SSP,affinity
+1,The recommendation process is clear to me.,3,4.0,SSP,understandability
+1,It is easy to grasp why I received these recommended songs.,3,4.0,SSP,understandability
+1,I understand how the recommended songs relate to my musical taste.,3,4.0,SSP,understandability
+1,I would listen to the playlist again.,3,4.0,SSP,personalization
+1,I find the songs from the playlist appealing.,3,4.0,SSP,personalization
+1,I feel like the recommended songs take my preferences into account.,3,4.0,SSP,personalization
+1,The recommended songs seem to be in between my preferences and the target.,3,5.0,SSP,direction
+1,I can notice the recommendations going in the direction of the target.,3,5.0,SSP,direction
+1,I feel in control of modifying the recommendations.,3,3.0,SSP,control
+1,I feel in control of modifying the recommendations.,2,4.0,SSP,control
+1,I can notice the recommendations going in the direction of the target.,2,3.0,SSP,direction
+1,The recommended songs seem to be in between my preferences and the target.,2,5.0,SSP,direction
+1,I feel like the recommended songs take my preferences into account.,2,6.0,SSP,personalization
+1,I find the songs from the playlist appealing.,2,5.0,SSP,personalization
+1,I would listen to the playlist again.,2,5.0,SSP,personalization
+1,I understand how the recommended songs relate to my musical taste.,2,6.0,SSP,understandability
+1,It is easy to grasp why I received these recommended songs.,2,6.0,SSP,understandability
+1,The recommendation process is clear to me.,2,5.0,SSP,understandability
+1,I enjoy the music from [target taste].,2,2.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,3.0,SSP,affinity
+1,My enjoyment of music from [target taste] has increased since the previous step.,2,3.0,SSP,affinity
+1,I enjoy the music from [target taste].,1,3.0,SSP,affinity
+1,The recommendation process is clear to me.,1,6.0,SSP,understandability
+1,It is easy to grasp why I received these recommended songs.,1,6.0,SSP,understandability
+1,I understand how the recommended songs relate to my musical taste.,1,7.0,SSP,understandability
+1,I would listen to the playlist again.,1,6.0,SSP,personalization
+1,I find the songs from the playlist appealing.,1,7.0,SSP,personalization
+1,I feel like the recommended songs take my preferences into account.,1,7.0,SSP,personalization
+1,The recommended songs seem to be in between my preferences and the target.,1,6.0,SSP,direction
+1,I can notice the recommendations going in the direction of the target.,1,5.0,SSP,direction
+1,I feel in control of modifying the recommendations.,1,4.0,SSP,control
+2,This approach supports me in getting to know the new genre.,7,6.0,SSA,helpfulness
+2,This approach motivates me to more delve into the new genre.,7,7.0,SSA,helpfulness
+2,This approach is useful in exploring a new genre.,7,6.0,SSA,helpfulness
+2,I found it easy to modify the recommendations in the recommender.,6,4.0,SSA,control
+2,The recommender allows only limited control to modify the recommendations.,6,2.0,SSA,control
+2,I feel in control of modifying the recommendations.,6,5.0,SSA,control
+2,I can notice the recommendations going in the direction of the target.,6,6.0,SSA,direction
+2,The recommended songs seem to be in between my preferences and the target.,6,5.0,SSA,direction
+2,I feel like the recommended songs take my preferences into account.,6,3.0,SSA,personalization
+2,I find the songs from the playlist appealing.,6,6.0,SSA,personalization
+2,I would listen to the playlist again.,6,5.0,SSA,personalization
+2,I understand how the recommended songs relate to my musical taste.,6,6.0,SSA,understandability
+2,It is easy to grasp why I received these recommended songs.,6,6.0,SSA,understandability
+2,The recommendation process is clear to me.,6,6.0,SSA,understandability
+2,I enjoy the music from [target taste].,6,6.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,6.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the previous step.,6,6.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the previous step.,5,6.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,5.0,SSA,affinity
+2,I enjoy the music from [target taste].,5,5.0,SSA,affinity
+2,The recommendation process is clear to me.,5,6.0,SSA,understandability
+2,It is easy to grasp why I received these recommended songs.,5,6.0,SSA,understandability
+2,I understand how the recommended songs relate to my musical taste.,5,5.0,SSA,understandability
+2,I would listen to the playlist again.,5,5.0,SSA,personalization
+2,I find the songs from the playlist appealing.,5,6.0,SSA,personalization
+2,I feel like the recommended songs take my preferences into account.,5,5.0,SSA,personalization
+2,The recommended songs seem to be in between my preferences and the target.,5,6.0,SSA,direction
+2,I can notice the recommendations going in the direction of the target.,5,6.0,SSA,direction
+2,I feel in control of modifying the recommendations.,5,5.0,SSA,control
+2,I feel in control of modifying the recommendations.,4,5.0,SSA,control
+2,I can notice the recommendations going in the direction of the target.,4,6.0,SSA,direction
+2,The recommended songs seem to be in between my preferences and the target.,4,5.0,SSA,direction
+2,I feel like the recommended songs take my preferences into account.,4,3.0,SSA,personalization
+2,I find the songs from the playlist appealing.,4,4.0,SSA,personalization
+2,I would listen to the playlist again.,4,4.0,SSA,personalization
+2,I understand how the recommended songs relate to my musical taste.,4,5.0,SSA,understandability
+2,It is easy to grasp why I received these recommended songs.,4,5.0,SSA,understandability
+2,The recommendation process is clear to me.,4,5.0,SSA,understandability
+2,I enjoy the music from [target taste].,4,4.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,4.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the previous step.,4,5.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the previous step.,3,4.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,4.0,SSA,affinity
+2,I enjoy the music from [target taste].,3,3.0,SSA,affinity
+2,The recommendation process is clear to me.,3,5.0,SSA,understandability
+2,It is easy to grasp why I received these recommended songs.,3,5.0,SSA,understandability
+2,I understand how the recommended songs relate to my musical taste.,3,5.0,SSA,understandability
+2,I would listen to the playlist again.,3,5.0,SSA,personalization
+2,I find the songs from the playlist appealing.,3,5.0,SSA,personalization
+2,I feel like the recommended songs take my preferences into account.,3,5.0,SSA,personalization
+2,The recommended songs seem to be in between my preferences and the target.,3,5.0,SSA,direction
+2,I can notice the recommendations going in the direction of the target.,3,5.0,SSA,direction
+2,I feel in control of modifying the recommendations.,3,5.0,SSA,control
+2,I feel in control of modifying the recommendations.,2,5.0,SSA,control
+2,I can notice the recommendations going in the direction of the target.,2,4.0,SSA,direction
+2,The recommended songs seem to be in between my preferences and the target.,2,5.0,SSA,direction
+2,I feel like the recommended songs take my preferences into account.,2,5.0,SSA,personalization
+2,I find the songs from the playlist appealing.,2,5.0,SSA,personalization
+2,I would listen to the playlist again.,2,5.0,SSA,personalization
+2,I understand how the recommended songs relate to my musical taste.,2,5.0,SSA,understandability
+2,It is easy to grasp why I received these recommended songs.,2,5.0,SSA,understandability
+2,The recommendation process is clear to me.,2,5.0,SSA,understandability
+2,I enjoy the music from [target taste].,2,4.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,2.0,SSA,affinity
+2,My enjoyment of music from [target taste] has increased since the previous step.,2,2.0,SSA,affinity
+2,I enjoy the music from [target taste].,1,3.0,SSA,affinity
+2,The recommendation process is clear to me.,1,4.0,SSA,understandability
+2,It is easy to grasp why I received these recommended songs.,1,5.0,SSA,understandability
+2,I understand how the recommended songs relate to my musical taste.,1,4.0,SSA,understandability
+2,I would listen to the playlist again.,1,4.0,SSA,personalization
+2,I find the songs from the playlist appealing.,1,4.0,SSA,personalization
+2,I feel like the recommended songs take my preferences into account.,1,5.0,SSA,personalization
+2,The recommended songs seem to be in between my preferences and the target.,1,4.0,SSA,direction
+2,I can notice the recommendations going in the direction of the target.,1,4.0,SSA,direction
+2,I feel in control of modifying the recommendations.,1,4.0,SSA,control
+3,This approach supports me in getting to know the new genre.,7,6.0,SSA,helpfulness
+3,This approach motivates me to more delve into the new genre.,7,6.0,SSA,helpfulness
+3,This approach is useful in exploring a new genre.,7,6.0,SSA,helpfulness
+3,I found it easy to modify the recommendations in the recommender.,6,4.0,SSA,control
+3,The recommender allows only limited control to modify the recommendations.,6,2.0,SSA,control
+3,I feel in control of modifying the recommendations.,6,6.0,SSA,control
+3,I can notice the recommendations going in the direction of the target.,6,5.0,SSA,direction
+3,The recommended songs seem to be in between my preferences and the target.,6,5.0,SSA,direction
+3,I feel like the recommended songs take my preferences into account.,6,4.0,SSA,personalization
+3,I find the songs from the playlist appealing.,6,5.0,SSA,personalization
+3,I would listen to the playlist again.,6,5.0,SSA,personalization
+3,I understand how the recommended songs relate to my musical taste.,6,6.0,SSA,understandability
+3,It is easy to grasp why I received these recommended songs.,6,6.0,SSA,understandability
+3,The recommendation process is clear to me.,6,6.0,SSA,understandability
+3,I enjoy the music from [target taste].,6,6.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,6.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the previous step.,6,5.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the previous step.,5,5.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,5.0,SSA,affinity
+3,I enjoy the music from [target taste].,5,5.0,SSA,affinity
+3,The recommendation process is clear to me.,5,5.0,SSA,understandability
+3,It is easy to grasp why I received these recommended songs.,5,5.0,SSA,understandability
+3,I understand how the recommended songs relate to my musical taste.,5,5.0,SSA,understandability
+3,I would listen to the playlist again.,5,5.0,SSA,personalization
+3,I find the songs from the playlist appealing.,5,5.0,SSA,personalization
+3,I feel like the recommended songs take my preferences into account.,5,5.0,SSA,personalization
+3,The recommended songs seem to be in between my preferences and the target.,5,6.0,SSA,direction
+3,I can notice the recommendations going in the direction of the target.,5,5.0,SSA,direction
+3,I feel in control of modifying the recommendations.,5,5.0,SSA,control
+3,I feel in control of modifying the recommendations.,4,5.0,SSA,control
+3,I can notice the recommendations going in the direction of the target.,4,5.0,SSA,direction
+3,The recommended songs seem to be in between my preferences and the target.,4,4.0,SSA,direction
+3,I feel like the recommended songs take my preferences into account.,4,3.0,SSA,personalization
+3,I find the songs from the playlist appealing.,4,5.0,SSA,personalization
+3,I would listen to the playlist again.,4,4.0,SSA,personalization
+3,I understand how the recommended songs relate to my musical taste.,4,5.0,SSA,understandability
+3,It is easy to grasp why I received these recommended songs.,4,5.0,SSA,understandability
+3,The recommendation process is clear to me.,4,4.0,SSA,understandability
+3,I enjoy the music from [target taste].,4,4.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,4.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the previous step.,4,5.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the previous step.,3,4.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,4.0,SSA,affinity
+3,I enjoy the music from [target taste].,3,4.0,SSA,affinity
+3,The recommendation process is clear to me.,3,5.0,SSA,understandability
+3,It is easy to grasp why I received these recommended songs.,3,5.0,SSA,understandability
+3,I understand how the recommended songs relate to my musical taste.,3,5.0,SSA,understandability
+3,I would listen to the playlist again.,3,5.0,SSA,personalization
+3,I find the songs from the playlist appealing.,3,5.0,SSA,personalization
+3,I feel like the recommended songs take my preferences into account.,3,5.0,SSA,personalization
+3,The recommended songs seem to be in between my preferences and the target.,3,5.0,SSA,direction
+3,I can notice the recommendations going in the direction of the target.,3,5.0,SSA,direction
+3,I feel in control of modifying the recommendations.,3,4.0,SSA,control
+3,I feel in control of modifying the recommendations.,2,4.0,SSA,control
+3,I can notice the recommendations going in the direction of the target.,2,4.0,SSA,direction
+3,The recommended songs seem to be in between my preferences and the target.,2,4.0,SSA,direction
+3,I feel like the recommended songs take my preferences into account.,2,5.0,SSA,personalization
+3,I find the songs from the playlist appealing.,2,4.0,SSA,personalization
+3,I would listen to the playlist again.,2,4.0,SSA,personalization
+3,I understand how the recommended songs relate to my musical taste.,2,5.0,SSA,understandability
+3,It is easy to grasp why I received these recommended songs.,2,5.0,SSA,understandability
+3,The recommendation process is clear to me.,2,4.0,SSA,understandability
+3,I enjoy the music from [target taste].,2,3.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,3.0,SSA,affinity
+3,My enjoyment of music from [target taste] has increased since the previous step.,2,3.0,SSA,affinity
+4,This approach supports me in getting to know the new genre.,7,4.0,BS,helpfulness
+4,This approach motivates me to more delve into the new genre.,7,2.0,BS,helpfulness
+4,This approach is useful in exploring a new genre.,7,4.0,BS,helpfulness
+4,I found it easy to modify the recommendations in the recommender.,6,2.0,BS,control
+4,The recommender allows only limited control to modify the recommendations.,6,7.0,BS,control
+4,I feel in control of modifying the recommendations.,6,1.0,BS,control
+4,I can notice the recommendations going in the direction of the target.,6,2.0,BS,direction
+4,The recommended songs seem to be in between my preferences and the target.,6,2.0,BS,direction
+4,I feel like the recommended songs take my preferences into account.,6,1.0,BS,personalization
+4,I find the songs from the playlist appealing.,6,2.0,BS,personalization
+4,I would listen to the playlist again.,6,2.0,BS,personalization
+4,I understand how the recommended songs relate to my musical taste.,6,1.0,BS,understandability
+4,It is easy to grasp why I received these recommended songs.,6,2.0,BS,understandability
+4,The recommendation process is clear to me.,6,1.0,BS,understandability
+4,I enjoy the music from [target taste].,6,2.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,2.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the previous step.,6,1.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the previous step.,5,1.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,2.0,BS,affinity
+4,I enjoy the music from [target taste].,5,3.0,BS,affinity
+4,The recommendation process is clear to me.,5,2.0,BS,understandability
+4,It is easy to grasp why I received these recommended songs.,5,3.0,BS,understandability
+4,I understand how the recommended songs relate to my musical taste.,5,2.0,BS,understandability
+4,I would listen to the playlist again.,5,2.0,BS,personalization
+4,I find the songs from the playlist appealing.,5,2.0,BS,personalization
+4,I feel like the recommended songs take my preferences into account.,5,1.0,BS,personalization
+4,The recommended songs seem to be in between my preferences and the target.,5,2.0,BS,direction
+4,I can notice the recommendations going in the direction of the target.,5,2.0,BS,direction
+4,I feel in control of modifying the recommendations.,5,1.0,BS,control
+4,I feel in control of modifying the recommendations.,4,1.0,BS,control
+4,I can notice the recommendations going in the direction of the target.,4,2.0,BS,direction
+4,The recommended songs seem to be in between my preferences and the target.,4,2.0,BS,direction
+4,I feel like the recommended songs take my preferences into account.,4,2.0,BS,personalization
+4,I find the songs from the playlist appealing.,4,2.0,BS,personalization
+4,I would listen to the playlist again.,4,2.0,BS,personalization
+4,I understand how the recommended songs relate to my musical taste.,4,2.0,BS,understandability
+4,It is easy to grasp why I received these recommended songs.,4,2.0,BS,understandability
+4,The recommendation process is clear to me.,4,2.0,BS,understandability
+4,I enjoy the music from [target taste].,4,3.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,2.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the previous step.,4,2.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the previous step.,3,2.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,3.0,BS,affinity
+4,I enjoy the music from [target taste].,3,3.0,BS,affinity
+4,The recommendation process is clear to me.,3,2.0,BS,understandability
+4,It is easy to grasp why I received these recommended songs.,3,2.0,BS,understandability
+4,I understand how the recommended songs relate to my musical taste.,3,2.0,BS,understandability
+4,I would listen to the playlist again.,3,2.0,BS,personalization
+4,I find the songs from the playlist appealing.,3,2.0,BS,personalization
+4,I feel like the recommended songs take my preferences into account.,3,2.0,BS,personalization
+4,The recommended songs seem to be in between my preferences and the target.,3,3.0,BS,direction
+4,I can notice the recommendations going in the direction of the target.,3,3.0,BS,direction
+4,I feel in control of modifying the recommendations.,3,2.0,BS,control
+4,I feel in control of modifying the recommendations.,2,2.0,BS,control
+4,I can notice the recommendations going in the direction of the target.,2,3.0,BS,direction
+4,The recommended songs seem to be in between my preferences and the target.,2,3.0,BS,direction
+4,I feel like the recommended songs take my preferences into account.,2,3.0,BS,personalization
+4,I find the songs from the playlist appealing.,2,3.0,BS,personalization
+4,I would listen to the playlist again.,2,3.0,BS,personalization
+4,I understand how the recommended songs relate to my musical taste.,2,3.0,BS,understandability
+4,It is easy to grasp why I received these recommended songs.,2,3.0,BS,understandability
+4,The recommendation process is clear to me.,2,3.0,BS,understandability
+4,I enjoy the music from [target taste].,2,3.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,4.0,BS,affinity
+4,My enjoyment of music from [target taste] has increased since the previous step.,2,5.0,BS,affinity
+4,I enjoy the music from [target taste].,1,4.0,BS,affinity
+4,The recommendation process is clear to me.,1,3.0,BS,understandability
+4,It is easy to grasp why I received these recommended songs.,1,3.0,BS,understandability
+4,I understand how the recommended songs relate to my musical taste.,1,3.0,BS,understandability
+4,I would listen to the playlist again.,1,4.0,BS,personalization
+4,I find the songs from the playlist appealing.,1,4.0,BS,personalization
+4,I feel like the recommended songs take my preferences into account.,1,2.0,BS,personalization
+4,The recommended songs seem to be in between my preferences and the target.,1,3.0,BS,direction
+4,I can notice the recommendations going in the direction of the target.,1,4.0,BS,direction
+4,I feel in control of modifying the recommendations.,1,2.0,BS,control
+5,This approach supports me in getting to know the new genre.,7,2.0,BS,helpfulness
+5,This approach motivates me to more delve into the new genre.,7,3.0,BS,helpfulness
+5,This approach is useful in exploring a new genre.,7,3.0,BS,helpfulness
+5,I found it easy to modify the recommendations in the recommender.,6,1.0,BS,control
+5,The recommender allows only limited control to modify the recommendations.,6,2.0,BS,control
+5,I feel in control of modifying the recommendations.,6,1.0,BS,control
+5,I can notice the recommendations going in the direction of the target.,6,1.0,BS,direction
+5,The recommended songs seem to be in between my preferences and the target.,6,1.0,BS,direction
+5,I feel like the recommended songs take my preferences into account.,6,1.0,BS,personalization
+5,I find the songs from the playlist appealing.,6,1.0,BS,personalization
+5,I would listen to the playlist again.,6,1.0,BS,personalization
+5,I understand how the recommended songs relate to my musical taste.,6,1.0,BS,understandability
+5,It is easy to grasp why I received these recommended songs.,6,2.0,BS,understandability
+5,The recommendation process is clear to me.,6,2.0,BS,understandability
+5,I enjoy the music from [target taste].,6,2.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,2.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the previous step.,6,1.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the previous step.,5,2.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,2.0,BS,affinity
+5,I enjoy the music from [target taste].,5,2.0,BS,affinity
+5,The recommendation process is clear to me.,5,3.0,BS,understandability
+5,It is easy to grasp why I received these recommended songs.,5,3.0,BS,understandability
+5,I understand how the recommended songs relate to my musical taste.,5,2.0,BS,understandability
+5,I would listen to the playlist again.,5,2.0,BS,personalization
+5,I find the songs from the playlist appealing.,5,3.0,BS,personalization
+5,I feel like the recommended songs take my preferences into account.,5,2.0,BS,personalization
+5,The recommended songs seem to be in between my preferences and the target.,5,3.0,BS,direction
+5,I can notice the recommendations going in the direction of the target.,5,2.0,BS,direction
+5,I feel in control of modifying the recommendations.,5,2.0,BS,control
+5,I feel in control of modifying the recommendations.,4,2.0,BS,control
+5,I can notice the recommendations going in the direction of the target.,4,2.0,BS,direction
+5,The recommended songs seem to be in between my preferences and the target.,4,1.0,BS,direction
+5,I feel like the recommended songs take my preferences into account.,4,1.0,BS,personalization
+5,I find the songs from the playlist appealing.,4,2.0,BS,personalization
+5,I would listen to the playlist again.,4,2.0,BS,personalization
+5,I understand how the recommended songs relate to my musical taste.,4,2.0,BS,understandability
+5,It is easy to grasp why I received these recommended songs.,4,2.0,BS,understandability
+5,The recommendation process is clear to me.,4,2.0,BS,understandability
+5,I enjoy the music from [target taste].,4,2.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,2.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the previous step.,4,1.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the previous step.,3,2.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,4.0,BS,affinity
+5,I enjoy the music from [target taste].,3,2.0,BS,affinity
+5,The recommendation process is clear to me.,3,3.0,BS,understandability
+5,It is easy to grasp why I received these recommended songs.,3,3.0,BS,understandability
+5,I understand how the recommended songs relate to my musical taste.,3,2.0,BS,understandability
+5,I would listen to the playlist again.,3,2.0,BS,personalization
+5,I find the songs from the playlist appealing.,3,2.0,BS,personalization
+5,I feel like the recommended songs take my preferences into account.,3,2.0,BS,personalization
+5,The recommended songs seem to be in between my preferences and the target.,3,2.0,BS,direction
+5,I can notice the recommendations going in the direction of the target.,3,3.0,BS,direction
+5,I feel in control of modifying the recommendations.,3,2.0,BS,control
+5,I feel in control of modifying the recommendations.,2,2.0,BS,control
+5,I can notice the recommendations going in the direction of the target.,2,4.0,BS,direction
+5,The recommended songs seem to be in between my preferences and the target.,2,3.0,BS,direction
+5,I feel like the recommended songs take my preferences into account.,2,2.0,BS,personalization
+5,I find the songs from the playlist appealing.,2,4.0,BS,personalization
+5,I would listen to the playlist again.,2,3.0,BS,personalization
+5,I understand how the recommended songs relate to my musical taste.,2,3.0,BS,understandability
+5,It is easy to grasp why I received these recommended songs.,2,5.0,BS,understandability
+5,The recommendation process is clear to me.,2,4.0,BS,understandability
+5,I enjoy the music from [target taste].,2,4.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,5.0,BS,affinity
+5,My enjoyment of music from [target taste] has increased since the previous step.,2,5.0,BS,affinity
+6,This approach supports me in getting to know the new genre.,7,3.0,SSP,helpfulness
+6,This approach motivates me to more delve into the new genre.,7,3.0,SSP,helpfulness
+6,This approach is useful in exploring a new genre.,7,4.0,SSP,helpfulness
+6,I found it easy to modify the recommendations in the recommender.,6,2.0,SSP,control
+6,The recommender allows only limited control to modify the recommendations.,6,5.0,SSP,control
+6,I feel in control of modifying the recommendations.,6,1.0,SSP,control
+6,I can notice the recommendations going in the direction of the target.,6,2.0,SSP,direction
+6,The recommended songs seem to be in between my preferences and the target.,6,3.0,SSP,direction
+6,I feel like the recommended songs take my preferences into account.,6,2.0,SSP,personalization
+6,I find the songs from the playlist appealing.,6,3.0,SSP,personalization
+6,I would listen to the playlist again.,6,2.0,SSP,personalization
+6,I understand how the recommended songs relate to my musical taste.,6,3.0,SSP,understandability
+6,It is easy to grasp why I received these recommended songs.,6,3.0,SSP,understandability
+6,The recommendation process is clear to me.,6,2.0,SSP,understandability
+6,I enjoy the music from [target taste].,6,5.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,3.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the previous step.,6,5.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the previous step.,5,1.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,1.0,SSP,affinity
+6,I enjoy the music from [target taste].,5,1.0,SSP,affinity
+6,The recommendation process is clear to me.,5,1.0,SSP,understandability
+6,It is easy to grasp why I received these recommended songs.,5,1.0,SSP,understandability
+6,I understand how the recommended songs relate to my musical taste.,5,1.0,SSP,understandability
+6,I would listen to the playlist again.,5,1.0,SSP,personalization
+6,I find the songs from the playlist appealing.,5,1.0,SSP,personalization
+6,I feel like the recommended songs take my preferences into account.,5,1.0,SSP,personalization
+6,The recommended songs seem to be in between my preferences and the target.,5,1.0,SSP,direction
+6,I can notice the recommendations going in the direction of the target.,5,1.0,SSP,direction
+6,I feel in control of modifying the recommendations.,5,1.0,SSP,control
+5,I enjoy the music from [target taste].,1,4.0,BS,affinity
+5,The recommendation process is clear to me.,1,4.0,BS,understandability
+5,It is easy to grasp why I received these recommended songs.,1,4.0,BS,understandability
+5,I understand how the recommended songs relate to my musical taste.,1,2.0,BS,understandability
+5,I would listen to the playlist again.,1,4.0,BS,personalization
+5,I find the songs from the playlist appealing.,1,3.0,BS,personalization
+5,I feel like the recommended songs take my preferences into account.,1,2.0,BS,personalization
+5,The recommended songs seem to be in between my preferences and the target.,1,4.0,BS,direction
+5,I can notice the recommendations going in the direction of the target.,1,4.0,BS,direction
+5,I feel in control of modifying the recommendations.,1,3.0,BS,control
+7,This approach supports me in getting to know the new genre.,7,7.0,SSP,helpfulness
+7,This approach motivates me to more delve into the new genre.,7,5.0,SSP,helpfulness
+7,This approach is useful in exploring a new genre.,7,7.0,SSP,helpfulness
+7,I found it easy to modify the recommendations in the recommender.,6,4.0,SSP,control
+7,The recommender allows only limited control to modify the recommendations.,6,4.0,SSP,control
+7,I feel in control of modifying the recommendations.,6,5.0,SSP,control
+7,I can notice the recommendations going in the direction of the target.,6,5.0,SSP,direction
+7,The recommended songs seem to be in between my preferences and the target.,6,5.0,SSP,direction
+7,I feel like the recommended songs take my preferences into account.,6,3.0,SSP,personalization
+7,I find the songs from the playlist appealing.,6,3.0,SSP,personalization
+7,I would listen to the playlist again.,6,3.0,SSP,personalization
+7,I understand how the recommended songs relate to my musical taste.,6,5.0,SSP,understandability
+7,It is easy to grasp why I received these recommended songs.,6,4.0,SSP,understandability
+7,The recommendation process is clear to me.,6,7.0,SSP,understandability
+7,I enjoy the music from [target taste].,6,5.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,6.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the previous step.,6,5.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the previous step.,5,4.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,5.0,SSP,affinity
+7,I enjoy the music from [target taste].,5,2.0,SSP,affinity
+7,The recommendation process is clear to me.,5,7.0,SSP,understandability
+7,It is easy to grasp why I received these recommended songs.,5,3.0,SSP,understandability
+7,I understand how the recommended songs relate to my musical taste.,5,3.0,SSP,understandability
+7,I would listen to the playlist again.,5,3.0,SSP,personalization
+7,I find the songs from the playlist appealing.,5,3.0,SSP,personalization
+7,I feel like the recommended songs take my preferences into account.,5,4.0,SSP,personalization
+7,The recommended songs seem to be in between my preferences and the target.,5,3.0,SSP,direction
+7,I can notice the recommendations going in the direction of the target.,5,7.0,SSP,direction
+7,I feel in control of modifying the recommendations.,5,3.0,SSP,control
+7,I feel in control of modifying the recommendations.,4,5.0,SSP,control
+7,I can notice the recommendations going in the direction of the target.,4,5.0,SSP,direction
+7,The recommended songs seem to be in between my preferences and the target.,4,4.0,SSP,direction
+7,I feel like the recommended songs take my preferences into account.,4,5.0,SSP,personalization
+7,I find the songs from the playlist appealing.,4,3.0,SSP,personalization
+7,I would listen to the playlist again.,4,3.0,SSP,personalization
+7,I understand how the recommended songs relate to my musical taste.,4,5.0,SSP,understandability
+7,It is easy to grasp why I received these recommended songs.,4,5.0,SSP,understandability
+7,The recommendation process is clear to me.,4,7.0,SSP,understandability
+7,I enjoy the music from [target taste].,4,4.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,5.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the previous step.,4,5.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the previous step.,3,6.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,5.0,SSP,affinity
+7,I enjoy the music from [target taste].,3,4.0,SSP,affinity
+7,The recommendation process is clear to me.,3,7.0,SSP,understandability
+7,It is easy to grasp why I received these recommended songs.,3,6.0,SSP,understandability
+7,I understand how the recommended songs relate to my musical taste.,3,5.0,SSP,understandability
+7,I would listen to the playlist again.,3,4.0,SSP,personalization
+7,I find the songs from the playlist appealing.,3,4.0,SSP,personalization
+7,I feel like the recommended songs take my preferences into account.,3,5.0,SSP,personalization
+7,The recommended songs seem to be in between my preferences and the target.,3,5.0,SSP,direction
+7,I can notice the recommendations going in the direction of the target.,3,4.0,SSP,direction
+7,I feel in control of modifying the recommendations.,3,5.0,SSP,control
+7,I feel in control of modifying the recommendations.,2,3.0,SSP,control
+7,I can notice the recommendations going in the direction of the target.,2,2.0,SSP,direction
+7,The recommended songs seem to be in between my preferences and the target.,2,6.0,SSP,direction
+7,I feel like the recommended songs take my preferences into account.,2,5.0,SSP,personalization
+7,I find the songs from the playlist appealing.,2,5.0,SSP,personalization
+7,I would listen to the playlist again.,2,5.0,SSP,personalization
+7,I understand how the recommended songs relate to my musical taste.,2,6.0,SSP,understandability
+7,It is easy to grasp why I received these recommended songs.,2,6.0,SSP,understandability
+7,The recommendation process is clear to me.,2,7.0,SSP,understandability
+7,I enjoy the music from [target taste].,2,2.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,2.0,SSP,affinity
+7,My enjoyment of music from [target taste] has increased since the previous step.,2,2.0,SSP,affinity
+7,I enjoy the music from [target taste].,1,2.0,SSP,affinity
+7,The recommendation process is clear to me.,1,6.0,SSP,understandability
+7,It is easy to grasp why I received these recommended songs.,1,7.0,SSP,understandability
+7,I understand how the recommended songs relate to my musical taste.,1,7.0,SSP,understandability
+7,I would listen to the playlist again.,1,6.0,SSP,personalization
+7,I find the songs from the playlist appealing.,1,5.0,SSP,personalization
+7,I feel like the recommended songs take my preferences into account.,1,7.0,SSP,personalization
+7,The recommended songs seem to be in between my preferences and the target.,1,5.0,SSP,direction
+7,I can notice the recommendations going in the direction of the target.,1,2.0,SSP,direction
+7,I feel in control of modifying the recommendations.,1,6.0,SSP,control
+8,This approach supports me in getting to know the new genre.,7,6.0,SSP,helpfulness
+8,This approach motivates me to more delve into the new genre.,7,5.0,SSP,helpfulness
+8,This approach is useful in exploring a new genre.,7,6.0,SSP,helpfulness
+8,I found it easy to modify the recommendations in the recommender.,6,3.0,SSP,control
+8,The recommender allows only limited control to modify the recommendations.,6,5.0,SSP,control
+8,I feel in control of modifying the recommendations.,6,4.0,SSP,control
+8,I can notice the recommendations going in the direction of the target.,6,6.0,SSP,direction
+8,The recommended songs seem to be in between my preferences and the target.,6,6.0,SSP,direction
+8,I feel like the recommended songs take my preferences into account.,6,4.0,SSP,personalization
+8,I find the songs from the playlist appealing.,6,5.0,SSP,personalization
+8,I would listen to the playlist again.,6,6.0,SSP,personalization
+8,I understand how the recommended songs relate to my musical taste.,6,6.0,SSP,understandability
+8,It is easy to grasp why I received these recommended songs.,6,6.0,SSP,understandability
+8,The recommendation process is clear to me.,6,6.0,SSP,understandability
+8,I enjoy the music from [target taste].,6,6.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,7.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the previous step.,6,6.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the previous step.,5,3.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,6.0,SSP,affinity
+8,I enjoy the music from [target taste].,5,5.0,SSP,affinity
+8,The recommendation process is clear to me.,5,5.0,SSP,understandability
+8,It is easy to grasp why I received these recommended songs.,5,5.0,SSP,understandability
+8,I understand how the recommended songs relate to my musical taste.,5,5.0,SSP,understandability
+8,I would listen to the playlist again.,5,4.0,SSP,personalization
+8,I find the songs from the playlist appealing.,5,4.0,SSP,personalization
+8,I feel like the recommended songs take my preferences into account.,5,4.0,SSP,personalization
+8,The recommended songs seem to be in between my preferences and the target.,5,5.0,SSP,direction
+8,I can notice the recommendations going in the direction of the target.,5,5.0,SSP,direction
+8,I feel in control of modifying the recommendations.,5,3.0,SSP,control
+6,I feel in control of modifying the recommendations.,4,2.0,SSP,control
+6,I can notice the recommendations going in the direction of the target.,4,2.0,SSP,direction
+6,The recommended songs seem to be in between my preferences and the target.,4,3.0,SSP,direction
+6,I feel like the recommended songs take my preferences into account.,4,2.0,SSP,personalization
+6,I find the songs from the playlist appealing.,4,2.0,SSP,personalization
+6,I would listen to the playlist again.,4,1.0,SSP,personalization
+6,I understand how the recommended songs relate to my musical taste.,4,2.0,SSP,understandability
+6,It is easy to grasp why I received these recommended songs.,4,2.0,SSP,understandability
+6,The recommendation process is clear to me.,4,2.0,SSP,understandability
+6,I enjoy the music from [target taste].,4,2.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,3.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the previous step.,4,2.0,SSP,affinity
+8,I feel in control of modifying the recommendations.,4,4.0,SSP,control
+8,I can notice the recommendations going in the direction of the target.,4,5.0,SSP,direction
+8,The recommended songs seem to be in between my preferences and the target.,4,5.0,SSP,direction
+8,I feel like the recommended songs take my preferences into account.,4,4.0,SSP,personalization
+8,I find the songs from the playlist appealing.,4,5.0,SSP,personalization
+8,I would listen to the playlist again.,4,4.0,SSP,personalization
+8,I understand how the recommended songs relate to my musical taste.,4,5.0,SSP,understandability
+8,It is easy to grasp why I received these recommended songs.,4,4.0,SSP,understandability
+8,The recommendation process is clear to me.,4,3.0,SSP,understandability
+8,I enjoy the music from [target taste].,4,4.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,6.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the previous step.,4,4.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the previous step.,3,5.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,6.0,SSP,affinity
+8,I enjoy the music from [target taste].,3,4.0,SSP,affinity
+8,The recommendation process is clear to me.,3,5.0,SSP,understandability
+8,It is easy to grasp why I received these recommended songs.,3,5.0,SSP,understandability
+8,I understand how the recommended songs relate to my musical taste.,3,6.0,SSP,understandability
+8,I would listen to the playlist again.,3,6.0,SSP,personalization
+8,I find the songs from the playlist appealing.,3,6.0,SSP,personalization
+8,I feel like the recommended songs take my preferences into account.,3,6.0,SSP,personalization
+8,The recommended songs seem to be in between my preferences and the target.,3,6.0,SSP,direction
+8,I can notice the recommendations going in the direction of the target.,3,6.0,SSP,direction
+8,I feel in control of modifying the recommendations.,3,4.0,SSP,control
+8,I feel in control of modifying the recommendations.,2,4.0,SSP,control
+8,I can notice the recommendations going in the direction of the target.,2,6.0,SSP,direction
+8,The recommended songs seem to be in between my preferences and the target.,2,6.0,SSP,direction
+8,I feel like the recommended songs take my preferences into account.,2,6.0,SSP,personalization
+8,I find the songs from the playlist appealing.,2,6.0,SSP,personalization
+8,I would listen to the playlist again.,2,6.0,SSP,personalization
+8,I understand how the recommended songs relate to my musical taste.,2,6.0,SSP,understandability
+8,It is easy to grasp why I received these recommended songs.,2,5.0,SSP,understandability
+8,The recommendation process is clear to me.,2,6.0,SSP,understandability
+8,I enjoy the music from [target taste].,2,4.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,5.0,SSP,affinity
+8,My enjoyment of music from [target taste] has increased since the previous step.,2,5.0,SSP,affinity
+8,I enjoy the music from [target taste].,1,3.0,SSP,affinity
+8,The recommendation process is clear to me.,1,6.0,SSP,understandability
+8,It is easy to grasp why I received these recommended songs.,1,6.0,SSP,understandability
+8,I understand how the recommended songs relate to my musical taste.,1,7.0,SSP,understandability
+8,I would listen to the playlist again.,1,6.0,SSP,personalization
+8,I find the songs from the playlist appealing.,1,6.0,SSP,personalization
+8,I feel like the recommended songs take my preferences into account.,1,7.0,SSP,personalization
+8,The recommended songs seem to be in between my preferences and the target.,1,6.0,SSP,direction
+8,I can notice the recommendations going in the direction of the target.,1,5.0,SSP,direction
+8,I feel in control of modifying the recommendations.,1,5.0,SSP,control
+6,My enjoyment of music from [target taste] has increased since the previous step.,3,5.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,5.0,SSP,affinity
+6,I enjoy the music from [target taste].,3,4.0,SSP,affinity
+6,The recommendation process is clear to me.,3,3.0,SSP,understandability
+6,It is easy to grasp why I received these recommended songs.,3,5.0,SSP,understandability
+6,I understand how the recommended songs relate to my musical taste.,3,5.0,SSP,understandability
+6,I would listen to the playlist again.,3,4.0,SSP,personalization
+6,I find the songs from the playlist appealing.,3,4.0,SSP,personalization
+6,I feel like the recommended songs take my preferences into account.,3,4.0,SSP,personalization
+6,The recommended songs seem to be in between my preferences and the target.,3,5.0,SSP,direction
+6,I can notice the recommendations going in the direction of the target.,3,4.0,SSP,direction
+6,I feel in control of modifying the recommendations.,3,4.0,SSP,control
+6,I feel in control of modifying the recommendations.,2,5.0,SSP,control
+6,I can notice the recommendations going in the direction of the target.,2,5.0,SSP,direction
+6,The recommended songs seem to be in between my preferences and the target.,2,4.0,SSP,direction
+6,I feel like the recommended songs take my preferences into account.,2,5.0,SSP,personalization
+6,I find the songs from the playlist appealing.,2,5.0,SSP,personalization
+6,I would listen to the playlist again.,2,4.0,SSP,personalization
+6,I understand how the recommended songs relate to my musical taste.,2,3.0,SSP,understandability
+6,It is easy to grasp why I received these recommended songs.,2,4.0,SSP,understandability
+6,The recommendation process is clear to me.,2,2.0,SSP,understandability
+6,I enjoy the music from [target taste].,2,3.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,3.0,SSP,affinity
+6,My enjoyment of music from [target taste] has increased since the previous step.,2,3.0,SSP,affinity
+6,I enjoy the music from [target taste].,1,4.0,SSP,affinity
+6,The recommendation process is clear to me.,1,2.0,SSP,understandability
+6,It is easy to grasp why I received these recommended songs.,1,3.0,SSP,understandability
+6,I understand how the recommended songs relate to my musical taste.,1,3.0,SSP,understandability
+6,I would listen to the playlist again.,1,1.0,SSP,personalization
+6,I find the songs from the playlist appealing.,1,2.0,SSP,personalization
+6,I feel like the recommended songs take my preferences into account.,1,5.0,SSP,personalization
+6,The recommended songs seem to be in between my preferences and the target.,1,4.0,SSP,direction
+6,I can notice the recommendations going in the direction of the target.,1,3.0,SSP,direction
+6,I feel in control of modifying the recommendations.,1,4.0,SSP,control
+9,This approach supports me in getting to know the new genre.,7,7.0,SSA,helpfulness
+9,This approach motivates me to more delve into the new genre.,7,6.0,SSA,helpfulness
+9,This approach is useful in exploring a new genre.,7,7.0,SSA,helpfulness
+9,I found it easy to modify the recommendations in the recommender.,6,6.0,SSA,control
+9,The recommender allows only limited control to modify the recommendations.,6,2.0,SSA,control
+9,I feel in control of modifying the recommendations.,6,7.0,SSA,control
+9,I can notice the recommendations going in the direction of the target.,6,6.0,SSA,direction
+9,The recommended songs seem to be in between my preferences and the target.,6,6.0,SSA,direction
+9,I feel like the recommended songs take my preferences into account.,6,7.0,SSA,personalization
+9,I find the songs from the playlist appealing.,6,6.0,SSA,personalization
+9,I would listen to the playlist again.,6,6.0,SSA,personalization
+9,I understand how the recommended songs relate to my musical taste.,6,7.0,SSA,understandability
+9,It is easy to grasp why I received these recommended songs.,6,7.0,SSA,understandability
+9,The recommendation process is clear to me.,6,7.0,SSA,understandability
+9,I enjoy the music from [target taste].,6,6.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,7.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the previous step.,6,6.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the previous step.,5,7.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,7.0,SSA,affinity
+9,I enjoy the music from [target taste].,5,6.0,SSA,affinity
+9,The recommendation process is clear to me.,5,6.0,SSA,understandability
+9,It is easy to grasp why I received these recommended songs.,5,6.0,SSA,understandability
+9,I understand how the recommended songs relate to my musical taste.,5,6.0,SSA,understandability
+9,I would listen to the playlist again.,5,6.0,SSA,personalization
+9,I find the songs from the playlist appealing.,5,6.0,SSA,personalization
+9,I feel like the recommended songs take my preferences into account.,5,6.0,SSA,personalization
+9,The recommended songs seem to be in between my preferences and the target.,5,6.0,SSA,direction
+9,I can notice the recommendations going in the direction of the target.,5,6.0,SSA,direction
+9,I feel in control of modifying the recommendations.,5,6.0,SSA,control
+9,I feel in control of modifying the recommendations.,4,6.0,SSA,control
+9,I can notice the recommendations going in the direction of the target.,4,5.0,SSA,direction
+9,The recommended songs seem to be in between my preferences and the target.,4,5.0,SSA,direction
+9,I feel like the recommended songs take my preferences into account.,4,5.0,SSA,personalization
+9,I find the songs from the playlist appealing.,4,5.0,SSA,personalization
+9,I would listen to the playlist again.,4,4.0,SSA,personalization
+9,I understand how the recommended songs relate to my musical taste.,4,5.0,SSA,understandability
+9,It is easy to grasp why I received these recommended songs.,4,5.0,SSA,understandability
+9,The recommendation process is clear to me.,4,4.0,SSA,understandability
+9,I enjoy the music from [target taste].,4,5.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,6.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the previous step.,4,6.0,SSA,affinity
+10,This approach supports me in getting to know the new genre.,7,7.0,SSA,helpfulness
+10,This approach motivates me to more delve into the new genre.,7,7.0,SSA,helpfulness
+10,This approach is useful in exploring a new genre.,7,7.0,SSA,helpfulness
+10,I found it easy to modify the recommendations in the recommender.,6,6.0,SSA,control
+10,The recommender allows only limited control to modify the recommendations.,6,2.0,SSA,control
+10,I feel in control of modifying the recommendations.,6,6.0,SSA,control
+10,I can notice the recommendations going in the direction of the target.,6,6.0,SSA,direction
+10,The recommended songs seem to be in between my preferences and the target.,6,5.0,SSA,direction
+10,I feel like the recommended songs take my preferences into account.,6,5.0,SSA,personalization
+10,I find the songs from the playlist appealing.,6,6.0,SSA,personalization
+10,I would listen to the playlist again.,6,6.0,SSA,personalization
+10,I understand how the recommended songs relate to my musical taste.,6,6.0,SSA,understandability
+10,It is easy to grasp why I received these recommended songs.,6,7.0,SSA,understandability
+10,The recommendation process is clear to me.,6,7.0,SSA,understandability
+10,I enjoy the music from [target taste].,6,6.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,6.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the previous step.,6,6.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the previous step.,5,6.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,6.0,SSA,affinity
+10,I enjoy the music from [target taste].,5,4.0,SSA,affinity
+10,The recommendation process is clear to me.,5,6.0,SSA,understandability
+10,It is easy to grasp why I received these recommended songs.,5,7.0,SSA,understandability
+10,I understand how the recommended songs relate to my musical taste.,5,7.0,SSA,understandability
+10,I would listen to the playlist again.,5,6.0,SSA,personalization
+10,I find the songs from the playlist appealing.,5,6.0,SSA,personalization
+10,I feel like the recommended songs take my preferences into account.,5,6.0,SSA,personalization
+10,The recommended songs seem to be in between my preferences and the target.,5,6.0,SSA,direction
+10,I can notice the recommendations going in the direction of the target.,5,6.0,SSA,direction
+10,I feel in control of modifying the recommendations.,5,6.0,SSA,control
+10,I feel in control of modifying the recommendations.,4,5.0,SSA,control
+10,I can notice the recommendations going in the direction of the target.,4,5.0,SSA,direction
+10,The recommended songs seem to be in between my preferences and the target.,4,6.0,SSA,direction
+10,I feel like the recommended songs take my preferences into account.,4,6.0,SSA,personalization
+10,I find the songs from the playlist appealing.,4,6.0,SSA,personalization
+10,I would listen to the playlist again.,4,5.0,SSA,personalization
+10,I understand how the recommended songs relate to my musical taste.,4,6.0,SSA,understandability
+10,It is easy to grasp why I received these recommended songs.,4,4.0,SSA,understandability
+10,The recommendation process is clear to me.,4,4.0,SSA,understandability
+10,I enjoy the music from [target taste].,4,2.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,4.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the previous step.,4,4.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the previous step.,3,2.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,2.0,SSA,affinity
+10,I enjoy the music from [target taste].,3,2.0,SSA,affinity
+10,The recommendation process is clear to me.,3,5.0,SSA,understandability
+10,It is easy to grasp why I received these recommended songs.,3,5.0,SSA,understandability
+10,I understand how the recommended songs relate to my musical taste.,3,6.0,SSA,understandability
+10,I would listen to the playlist again.,3,4.0,SSA,personalization
+10,I find the songs from the playlist appealing.,3,5.0,SSA,personalization
+10,I feel like the recommended songs take my preferences into account.,3,5.0,SSA,personalization
+10,The recommended songs seem to be in between my preferences and the target.,3,4.0,SSA,direction
+10,I can notice the recommendations going in the direction of the target.,3,2.0,SSA,direction
+10,I feel in control of modifying the recommendations.,3,2.0,SSA,control
+10,I feel in control of modifying the recommendations.,2,4.0,SSA,control
+10,I can notice the recommendations going in the direction of the target.,2,2.0,SSA,direction
+10,The recommended songs seem to be in between my preferences and the target.,2,5.0,SSA,direction
+10,I feel like the recommended songs take my preferences into account.,2,7.0,SSA,personalization
+10,I find the songs from the playlist appealing.,2,6.0,SSA,personalization
+10,I would listen to the playlist again.,2,5.0,SSA,personalization
+10,I understand how the recommended songs relate to my musical taste.,2,6.0,SSA,understandability
+10,It is easy to grasp why I received these recommended songs.,2,5.0,SSA,understandability
+10,The recommendation process is clear to me.,2,5.0,SSA,understandability
+10,I enjoy the music from [target taste].,2,2.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,1.0,SSA,affinity
+10,My enjoyment of music from [target taste] has increased since the previous step.,2,1.0,SSA,affinity
+10,I enjoy the music from [target taste].,1,2.0,SSA,affinity
+10,The recommendation process is clear to me.,1,5.0,SSA,understandability
+10,It is easy to grasp why I received these recommended songs.,1,6.0,SSA,understandability
+10,I understand how the recommended songs relate to my musical taste.,1,6.0,SSA,understandability
+10,I would listen to the playlist again.,1,6.0,SSA,personalization
+10,I find the songs from the playlist appealing.,1,7.0,SSA,personalization
+10,I feel like the recommended songs take my preferences into account.,1,7.0,SSA,personalization
+10,The recommended songs seem to be in between my preferences and the target.,1,5.0,SSA,direction
+10,I can notice the recommendations going in the direction of the target.,1,4.0,SSA,direction
+10,I feel in control of modifying the recommendations.,1,4.0,SSA,control
+11,This approach supports me in getting to know the new genre.,7,6.0,SSP,helpfulness
+11,This approach motivates me to more delve into the new genre.,7,6.0,SSP,helpfulness
+11,This approach is useful in exploring a new genre.,7,6.0,SSP,helpfulness
+11,I found it easy to modify the recommendations in the recommender.,6,3.0,SSP,control
+11,The recommender allows only limited control to modify the recommendations.,6,5.0,SSP,control
+11,I feel in control of modifying the recommendations.,6,3.0,SSP,control
+11,I can notice the recommendations going in the direction of the target.,6,6.0,SSP,direction
+11,The recommended songs seem to be in between my preferences and the target.,6,6.0,SSP,direction
+11,I feel like the recommended songs take my preferences into account.,6,6.0,SSP,personalization
+11,I find the songs from the playlist appealing.,6,5.0,SSP,personalization
+11,I would listen to the playlist again.,6,6.0,SSP,personalization
+11,I understand how the recommended songs relate to my musical taste.,6,5.0,SSP,understandability
+11,It is easy to grasp why I received these recommended songs.,6,5.0,SSP,understandability
+11,The recommendation process is clear to me.,6,5.0,SSP,understandability
+11,I enjoy the music from [target taste].,6,5.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,6.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the previous step.,6,5.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the previous step.,5,4.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,5.0,SSP,affinity
+11,I enjoy the music from [target taste].,5,4.0,SSP,affinity
+11,The recommendation process is clear to me.,5,4.0,SSP,understandability
+11,It is easy to grasp why I received these recommended songs.,5,4.0,SSP,understandability
+11,I understand how the recommended songs relate to my musical taste.,5,5.0,SSP,understandability
+11,I would listen to the playlist again.,5,5.0,SSP,personalization
+11,I find the songs from the playlist appealing.,5,5.0,SSP,personalization
+11,I feel like the recommended songs take my preferences into account.,5,5.0,SSP,personalization
+11,The recommended songs seem to be in between my preferences and the target.,5,5.0,SSP,direction
+11,I can notice the recommendations going in the direction of the target.,5,4.0,SSP,direction
+11,I feel in control of modifying the recommendations.,5,2.0,SSP,control
+11,I feel in control of modifying the recommendations.,4,3.0,SSP,control
+11,I can notice the recommendations going in the direction of the target.,4,5.0,SSP,direction
+11,The recommended songs seem to be in between my preferences and the target.,4,5.0,SSP,direction
+11,I feel like the recommended songs take my preferences into account.,4,5.0,SSP,personalization
+11,I find the songs from the playlist appealing.,4,5.0,SSP,personalization
+11,I would listen to the playlist again.,4,5.0,SSP,personalization
+11,I understand how the recommended songs relate to my musical taste.,4,4.0,SSP,understandability
+11,It is easy to grasp why I received these recommended songs.,4,3.0,SSP,understandability
+11,The recommendation process is clear to me.,4,3.0,SSP,understandability
+11,I enjoy the music from [target taste].,4,3.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,5.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the previous step.,4,2.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the previous step.,3,5.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,5.0,SSP,affinity
+11,I enjoy the music from [target taste].,3,4.0,SSP,affinity
+11,The recommendation process is clear to me.,3,4.0,SSP,understandability
+11,It is easy to grasp why I received these recommended songs.,3,4.0,SSP,understandability
+11,I understand how the recommended songs relate to my musical taste.,3,6.0,SSP,understandability
+11,I would listen to the playlist again.,3,6.0,SSP,personalization
+11,I find the songs from the playlist appealing.,3,6.0,SSP,personalization
+11,I feel like the recommended songs take my preferences into account.,3,6.0,SSP,personalization
+11,The recommended songs seem to be in between my preferences and the target.,3,6.0,SSP,direction
+11,I can notice the recommendations going in the direction of the target.,3,5.0,SSP,direction
+11,I feel in control of modifying the recommendations.,3,3.0,SSP,control
+11,I feel in control of modifying the recommendations.,2,4.0,SSP,control
+11,I can notice the recommendations going in the direction of the target.,2,5.0,SSP,direction
+11,The recommended songs seem to be in between my preferences and the target.,2,5.0,SSP,direction
+11,I feel like the recommended songs take my preferences into account.,2,6.0,SSP,personalization
+11,I find the songs from the playlist appealing.,2,5.0,SSP,personalization
+11,I would listen to the playlist again.,2,5.0,SSP,personalization
+11,I understand how the recommended songs relate to my musical taste.,2,5.0,SSP,understandability
+11,It is easy to grasp why I received these recommended songs.,2,5.0,SSP,understandability
+11,The recommendation process is clear to me.,2,5.0,SSP,understandability
+11,I enjoy the music from [target taste].,2,3.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,5.0,SSP,affinity
+11,My enjoyment of music from [target taste] has increased since the previous step.,2,5.0,SSP,affinity
+11,I enjoy the music from [target taste].,1,2.0,SSP,affinity
+11,The recommendation process is clear to me.,1,5.0,SSP,understandability
+11,It is easy to grasp why I received these recommended songs.,1,6.0,SSP,understandability
+11,I understand how the recommended songs relate to my musical taste.,1,6.0,SSP,understandability
+11,I would listen to the playlist again.,1,6.0,SSP,personalization
+11,I find the songs from the playlist appealing.,1,6.0,SSP,personalization
+11,I feel like the recommended songs take my preferences into account.,1,6.0,SSP,personalization
+11,The recommended songs seem to be in between my preferences and the target.,1,5.0,SSP,direction
+11,I can notice the recommendations going in the direction of the target.,1,2.0,SSP,direction
+11,I feel in control of modifying the recommendations.,1,4.0,SSP,control
+12,This approach supports me in getting to know the new genre.,7,6.0,SSP,helpfulness
+12,This approach motivates me to more delve into the new genre.,7,5.0,SSP,helpfulness
+12,This approach is useful in exploring a new genre.,7,5.0,SSP,helpfulness
+12,I found it easy to modify the recommendations in the recommender.,6,5.0,SSP,control
+12,The recommender allows only limited control to modify the recommendations.,6,3.0,SSP,control
+12,I feel in control of modifying the recommendations.,6,5.0,SSP,control
+12,I can notice the recommendations going in the direction of the target.,6,5.0,SSP,direction
+12,The recommended songs seem to be in between my preferences and the target.,6,5.0,SSP,direction
+12,I feel like the recommended songs take my preferences into account.,6,4.0,SSP,personalization
+12,I find the songs from the playlist appealing.,6,4.0,SSP,personalization
+12,I would listen to the playlist again.,6,5.0,SSP,personalization
+12,I understand how the recommended songs relate to my musical taste.,6,4.0,SSP,understandability
+12,It is easy to grasp why I received these recommended songs.,6,5.0,SSP,understandability
+12,The recommendation process is clear to me.,6,5.0,SSP,understandability
+12,I enjoy the music from [target taste].,6,4.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,5.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the previous step.,6,6.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the previous step.,5,3.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,5.0,SSP,affinity
+12,I enjoy the music from [target taste].,5,4.0,SSP,affinity
+12,The recommendation process is clear to me.,5,3.0,SSP,understandability
+12,It is easy to grasp why I received these recommended songs.,5,3.0,SSP,understandability
+12,I understand how the recommended songs relate to my musical taste.,5,3.0,SSP,understandability
+12,I would listen to the playlist again.,5,2.0,SSP,personalization
+12,I find the songs from the playlist appealing.,5,3.0,SSP,personalization
+12,I feel like the recommended songs take my preferences into account.,5,3.0,SSP,personalization
+12,The recommended songs seem to be in between my preferences and the target.,5,3.0,SSP,direction
+12,I can notice the recommendations going in the direction of the target.,5,3.0,SSP,direction
+12,I feel in control of modifying the recommendations.,5,4.0,SSP,control
+12,I feel in control of modifying the recommendations.,4,5.0,SSP,control
+12,I can notice the recommendations going in the direction of the target.,4,5.0,SSP,direction
+12,The recommended songs seem to be in between my preferences and the target.,4,5.0,SSP,direction
+12,I feel like the recommended songs take my preferences into account.,4,5.0,SSP,personalization
+12,I find the songs from the playlist appealing.,4,4.0,SSP,personalization
+12,I would listen to the playlist again.,4,4.0,SSP,personalization
+12,I understand how the recommended songs relate to my musical taste.,4,5.0,SSP,understandability
+12,It is easy to grasp why I received these recommended songs.,4,5.0,SSP,understandability
+12,The recommendation process is clear to me.,4,4.0,SSP,understandability
+12,I enjoy the music from [target taste].,4,5.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,5.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the previous step.,4,4.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the previous step.,3,5.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,4.0,SSP,affinity
+12,I enjoy the music from [target taste].,3,4.0,SSP,affinity
+12,The recommendation process is clear to me.,3,5.0,SSP,understandability
+12,It is easy to grasp why I received these recommended songs.,3,5.0,SSP,understandability
+12,I understand how the recommended songs relate to my musical taste.,3,4.0,SSP,understandability
+12,I would listen to the playlist again.,3,5.0,SSP,personalization
+12,I find the songs from the playlist appealing.,3,5.0,SSP,personalization
+12,I feel like the recommended songs take my preferences into account.,3,5.0,SSP,personalization
+12,The recommended songs seem to be in between my preferences and the target.,3,5.0,SSP,direction
+12,I can notice the recommendations going in the direction of the target.,3,5.0,SSP,direction
+12,I feel in control of modifying the recommendations.,3,4.0,SSP,control
+12,I feel in control of modifying the recommendations.,2,4.0,SSP,control
+12,I can notice the recommendations going in the direction of the target.,2,3.0,SSP,direction
+12,The recommended songs seem to be in between my preferences and the target.,2,3.0,SSP,direction
+12,I feel like the recommended songs take my preferences into account.,2,3.0,SSP,personalization
+12,I find the songs from the playlist appealing.,2,3.0,SSP,personalization
+12,I would listen to the playlist again.,2,3.0,SSP,personalization
+12,I understand how the recommended songs relate to my musical taste.,2,4.0,SSP,understandability
+12,It is easy to grasp why I received these recommended songs.,2,3.0,SSP,understandability
+12,The recommendation process is clear to me.,2,3.0,SSP,understandability
+12,I enjoy the music from [target taste].,2,3.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,3.0,SSP,affinity
+12,My enjoyment of music from [target taste] has increased since the previous step.,2,3.0,SSP,affinity
+12,I enjoy the music from [target taste].,1,4.0,SSP,affinity
+12,The recommendation process is clear to me.,1,5.0,SSP,understandability
+12,It is easy to grasp why I received these recommended songs.,1,6.0,SSP,understandability
+12,I understand how the recommended songs relate to my musical taste.,1,5.0,SSP,understandability
+12,I would listen to the playlist again.,1,5.0,SSP,personalization
+12,I find the songs from the playlist appealing.,1,5.0,SSP,personalization
+12,I feel like the recommended songs take my preferences into account.,1,4.0,SSP,personalization
+12,The recommended songs seem to be in between my preferences and the target.,1,5.0,SSP,direction
+12,I can notice the recommendations going in the direction of the target.,1,4.0,SSP,direction
+12,I feel in control of modifying the recommendations.,1,5.0,SSP,control
+13,This approach supports me in getting to know the new genre.,7,2.0,SSP,helpfulness
+13,This approach motivates me to more delve into the new genre.,7,2.0,SSP,helpfulness
+13,This approach is useful in exploring a new genre.,7,2.0,SSP,helpfulness
+13,I found it easy to modify the recommendations in the recommender.,6,2.0,SSP,control
+13,The recommender allows only limited control to modify the recommendations.,6,2.0,SSP,control
+13,I feel in control of modifying the recommendations.,6,3.0,SSP,control
+13,I can notice the recommendations going in the direction of the target.,6,3.0,SSP,direction
+13,The recommended songs seem to be in between my preferences and the target.,6,2.0,SSP,direction
+13,I feel like the recommended songs take my preferences into account.,6,2.0,SSP,personalization
+13,I find the songs from the playlist appealing.,6,2.0,SSP,personalization
+13,I would listen to the playlist again.,6,1.0,SSP,personalization
+13,I understand how the recommended songs relate to my musical taste.,6,2.0,SSP,understandability
+13,It is easy to grasp why I received these recommended songs.,6,2.0,SSP,understandability
+13,The recommendation process is clear to me.,6,3.0,SSP,understandability
+13,I enjoy the music from [target taste].,6,3.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,2.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the previous step.,6,2.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the previous step.,5,2.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,2.0,SSP,affinity
+13,I enjoy the music from [target taste].,5,2.0,SSP,affinity
+13,The recommendation process is clear to me.,5,2.0,SSP,understandability
+13,It is easy to grasp why I received these recommended songs.,5,3.0,SSP,understandability
+13,I understand how the recommended songs relate to my musical taste.,5,2.0,SSP,understandability
+13,I would listen to the playlist again.,5,1.0,SSP,personalization
+13,I find the songs from the playlist appealing.,5,3.0,SSP,personalization
+13,I feel like the recommended songs take my preferences into account.,5,2.0,SSP,personalization
+13,The recommended songs seem to be in between my preferences and the target.,5,2.0,SSP,direction
+13,I can notice the recommendations going in the direction of the target.,5,2.0,SSP,direction
+13,I feel in control of modifying the recommendations.,5,2.0,SSP,control
+13,I feel in control of modifying the recommendations.,4,2.0,SSP,control
+13,I can notice the recommendations going in the direction of the target.,4,2.0,SSP,direction
+13,The recommended songs seem to be in between my preferences and the target.,4,2.0,SSP,direction
+13,I feel like the recommended songs take my preferences into account.,4,2.0,SSP,personalization
+13,I find the songs from the playlist appealing.,4,2.0,SSP,personalization
+13,I would listen to the playlist again.,4,2.0,SSP,personalization
+13,I understand how the recommended songs relate to my musical taste.,4,2.0,SSP,understandability
+13,It is easy to grasp why I received these recommended songs.,4,2.0,SSP,understandability
+13,The recommendation process is clear to me.,4,2.0,SSP,understandability
+13,I enjoy the music from [target taste].,4,2.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,2.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the previous step.,4,2.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the previous step.,3,1.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,1.0,SSP,affinity
+13,I enjoy the music from [target taste].,3,2.0,SSP,affinity
+13,The recommendation process is clear to me.,3,1.0,SSP,understandability
+13,It is easy to grasp why I received these recommended songs.,3,2.0,SSP,understandability
+13,I understand how the recommended songs relate to my musical taste.,3,2.0,SSP,understandability
+13,I would listen to the playlist again.,3,1.0,SSP,personalization
+13,I find the songs from the playlist appealing.,3,2.0,SSP,personalization
+13,I feel like the recommended songs take my preferences into account.,3,2.0,SSP,personalization
+13,The recommended songs seem to be in between my preferences and the target.,3,2.0,SSP,direction
+13,I can notice the recommendations going in the direction of the target.,3,2.0,SSP,direction
+13,I feel in control of modifying the recommendations.,3,2.0,SSP,control
+14,This approach supports me in getting to know the new genre.,7,3.0,BS,helpfulness
+14,This approach motivates me to more delve into the new genre.,7,3.0,BS,helpfulness
+14,This approach is useful in exploring a new genre.,7,2.0,BS,helpfulness
+14,I found it easy to modify the recommendations in the recommender.,6,2.0,BS,control
+14,The recommender allows only limited control to modify the recommendations.,6,7.0,BS,control
+14,I feel in control of modifying the recommendations.,6,2.0,BS,control
+14,I can notice the recommendations going in the direction of the target.,6,3.0,BS,direction
+14,The recommended songs seem to be in between my preferences and the target.,6,3.0,BS,direction
+14,I feel like the recommended songs take my preferences into account.,6,3.0,BS,personalization
+14,I find the songs from the playlist appealing.,6,4.0,BS,personalization
+14,I would listen to the playlist again.,6,3.0,BS,personalization
+14,I understand how the recommended songs relate to my musical taste.,6,3.0,BS,understandability
+14,It is easy to grasp why I received these recommended songs.,6,2.0,BS,understandability
+14,The recommendation process is clear to me.,6,3.0,BS,understandability
+14,I enjoy the music from [target taste].,6,3.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,3.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the previous step.,6,3.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the previous step.,5,3.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,2.0,BS,affinity
+14,I enjoy the music from [target taste].,5,4.0,BS,affinity
+14,The recommendation process is clear to me.,5,2.0,BS,understandability
+14,It is easy to grasp why I received these recommended songs.,5,5.0,BS,understandability
+14,I understand how the recommended songs relate to my musical taste.,5,5.0,BS,understandability
+14,I would listen to the playlist again.,5,3.0,BS,personalization
+14,I find the songs from the playlist appealing.,5,5.0,BS,personalization
+14,I feel like the recommended songs take my preferences into account.,5,5.0,BS,personalization
+14,The recommended songs seem to be in between my preferences and the target.,5,5.0,BS,direction
+14,I can notice the recommendations going in the direction of the target.,5,5.0,BS,direction
+14,I feel in control of modifying the recommendations.,5,3.0,BS,control
+14,I feel in control of modifying the recommendations.,4,3.0,BS,control
+14,I can notice the recommendations going in the direction of the target.,4,4.0,BS,direction
+14,The recommended songs seem to be in between my preferences and the target.,4,4.0,BS,direction
+14,I feel like the recommended songs take my preferences into account.,4,3.0,BS,personalization
+14,I find the songs from the playlist appealing.,4,3.0,BS,personalization
+14,I would listen to the playlist again.,4,3.0,BS,personalization
+14,I understand how the recommended songs relate to my musical taste.,4,4.0,BS,understandability
+14,It is easy to grasp why I received these recommended songs.,4,3.0,BS,understandability
+14,The recommendation process is clear to me.,4,3.0,BS,understandability
+14,I enjoy the music from [target taste].,4,4.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,3.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the previous step.,4,3.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the previous step.,3,5.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,4.0,BS,affinity
+14,I enjoy the music from [target taste].,3,5.0,BS,affinity
+14,The recommendation process is clear to me.,3,3.0,BS,understandability
+14,It is easy to grasp why I received these recommended songs.,3,3.0,BS,understandability
+14,I understand how the recommended songs relate to my musical taste.,3,4.0,BS,understandability
+14,I would listen to the playlist again.,3,3.0,BS,personalization
+14,I find the songs from the playlist appealing.,3,4.0,BS,personalization
+14,I feel like the recommended songs take my preferences into account.,3,2.0,BS,personalization
+14,The recommended songs seem to be in between my preferences and the target.,3,3.0,BS,direction
+14,I can notice the recommendations going in the direction of the target.,3,4.0,BS,direction
+14,I feel in control of modifying the recommendations.,3,1.0,BS,control
+14,I feel in control of modifying the recommendations.,2,1.0,BS,control
+14,I can notice the recommendations going in the direction of the target.,2,3.0,BS,direction
+14,The recommended songs seem to be in between my preferences and the target.,2,3.0,BS,direction
+14,I feel like the recommended songs take my preferences into account.,2,4.0,BS,personalization
+14,I find the songs from the playlist appealing.,2,3.0,BS,personalization
+14,I would listen to the playlist again.,2,2.0,BS,personalization
+14,I understand how the recommended songs relate to my musical taste.,2,1.0,BS,understandability
+14,It is easy to grasp why I received these recommended songs.,2,2.0,BS,understandability
+14,The recommendation process is clear to me.,2,3.0,BS,understandability
+14,I enjoy the music from [target taste].,2,5.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,5.0,BS,affinity
+14,My enjoyment of music from [target taste] has increased since the previous step.,2,4.0,BS,affinity
+9,My enjoyment of music from [target taste] has increased since the previous step.,3,6.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,6.0,SSA,affinity
+9,I enjoy the music from [target taste].,3,5.0,SSA,affinity
+9,The recommendation process is clear to me.,3,5.0,SSA,understandability
+9,It is easy to grasp why I received these recommended songs.,3,4.0,SSA,understandability
+9,I understand how the recommended songs relate to my musical taste.,3,6.0,SSA,understandability
+9,I would listen to the playlist again.,3,6.0,SSA,personalization
+9,I find the songs from the playlist appealing.,3,6.0,SSA,personalization
+9,I feel like the recommended songs take my preferences into account.,3,5.0,SSA,personalization
+9,The recommended songs seem to be in between my preferences and the target.,3,5.0,SSA,direction
+9,I can notice the recommendations going in the direction of the target.,3,5.0,SSA,direction
+9,I feel in control of modifying the recommendations.,3,4.0,SSA,control
+14,I enjoy the music from [target taste].,1,7.0,BS,affinity
+14,The recommendation process is clear to me.,1,4.0,BS,understandability
+14,It is easy to grasp why I received these recommended songs.,1,2.0,BS,understandability
+14,I understand how the recommended songs relate to my musical taste.,1,5.0,BS,understandability
+14,I would listen to the playlist again.,1,3.0,BS,personalization
+14,I find the songs from the playlist appealing.,1,5.0,BS,personalization
+14,I feel like the recommended songs take my preferences into account.,1,5.0,BS,personalization
+14,The recommended songs seem to be in between my preferences and the target.,1,2.0,BS,direction
+14,I can notice the recommendations going in the direction of the target.,1,3.0,BS,direction
+14,I feel in control of modifying the recommendations.,1,3.0,BS,control
+9,I feel in control of modifying the recommendations.,2,3.0,SSA,control
+9,I can notice the recommendations going in the direction of the target.,2,4.0,SSA,direction
+9,The recommended songs seem to be in between my preferences and the target.,2,4.0,SSA,direction
+9,I feel like the recommended songs take my preferences into account.,2,4.0,SSA,personalization
+9,I find the songs from the playlist appealing.,2,4.0,SSA,personalization
+9,I would listen to the playlist again.,2,3.0,SSA,personalization
+9,I understand how the recommended songs relate to my musical taste.,2,3.0,SSA,understandability
+9,It is easy to grasp why I received these recommended songs.,2,3.0,SSA,understandability
+9,The recommendation process is clear to me.,2,4.0,SSA,understandability
+9,I enjoy the music from [target taste].,2,4.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,4.0,SSA,affinity
+9,My enjoyment of music from [target taste] has increased since the previous step.,2,3.0,SSA,affinity
+13,I feel in control of modifying the recommendations.,2,3.0,SSP,control
+13,I can notice the recommendations going in the direction of the target.,2,1.0,SSP,direction
+13,The recommended songs seem to be in between my preferences and the target.,2,1.0,SSP,direction
+13,I feel like the recommended songs take my preferences into account.,2,2.0,SSP,personalization
+13,I find the songs from the playlist appealing.,2,2.0,SSP,personalization
+13,I would listen to the playlist again.,2,1.0,SSP,personalization
+13,I understand how the recommended songs relate to my musical taste.,2,3.0,SSP,understandability
+13,It is easy to grasp why I received these recommended songs.,2,3.0,SSP,understandability
+13,The recommendation process is clear to me.,2,1.0,SSP,understandability
+13,I enjoy the music from [target taste].,2,1.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,1.0,SSP,affinity
+13,My enjoyment of music from [target taste] has increased since the previous step.,2,1.0,SSP,affinity
+13,I enjoy the music from [target taste].,1,1.0,SSP,affinity
+13,The recommendation process is clear to me.,1,1.0,SSP,understandability
+13,It is easy to grasp why I received these recommended songs.,1,3.0,SSP,understandability
+13,I understand how the recommended songs relate to my musical taste.,1,3.0,SSP,understandability
+13,I would listen to the playlist again.,1,2.0,SSP,personalization
+13,I find the songs from the playlist appealing.,1,3.0,SSP,personalization
+13,I feel like the recommended songs take my preferences into account.,1,2.0,SSP,personalization
+13,The recommended songs seem to be in between my preferences and the target.,1,1.0,SSP,direction
+13,I can notice the recommendations going in the direction of the target.,1,1.0,SSP,direction
+13,I feel in control of modifying the recommendations.,1,4.0,SSP,control
+15,This approach supports me in getting to know the new genre.,7,6.0,SSA,helpfulness
+15,This approach motivates me to more delve into the new genre.,7,6.0,SSA,helpfulness
+15,This approach is useful in exploring a new genre.,7,7.0,SSA,helpfulness
+15,I found it easy to modify the recommendations in the recommender.,6,5.0,SSA,control
+15,The recommender allows only limited control to modify the recommendations.,6,6.0,SSA,control
+15,I feel in control of modifying the recommendations.,6,6.0,SSA,control
+15,I can notice the recommendations going in the direction of the target.,6,7.0,SSA,direction
+15,The recommended songs seem to be in between my preferences and the target.,6,4.0,SSA,direction
+15,I feel like the recommended songs take my preferences into account.,6,2.0,SSA,personalization
+15,I find the songs from the playlist appealing.,6,5.0,SSA,personalization
+15,I would listen to the playlist again.,6,6.0,SSA,personalization
+15,I understand how the recommended songs relate to my musical taste.,6,4.0,SSA,understandability
+15,It is easy to grasp why I received these recommended songs.,6,5.0,SSA,understandability
+15,The recommendation process is clear to me.,6,5.0,SSA,understandability
+15,I enjoy the music from [target taste].,6,5.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,6.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the previous step.,6,5.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the previous step.,5,5.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,5.0,SSA,affinity
+15,I enjoy the music from [target taste].,5,4.0,SSA,affinity
+15,The recommendation process is clear to me.,5,5.0,SSA,understandability
+15,It is easy to grasp why I received these recommended songs.,5,6.0,SSA,understandability
+15,I understand how the recommended songs relate to my musical taste.,5,4.0,SSA,understandability
+15,I would listen to the playlist again.,5,5.0,SSA,personalization
+15,I find the songs from the playlist appealing.,5,5.0,SSA,personalization
+15,I feel like the recommended songs take my preferences into account.,5,2.0,SSA,personalization
+15,The recommended songs seem to be in between my preferences and the target.,5,5.0,SSA,direction
+15,I can notice the recommendations going in the direction of the target.,5,6.0,SSA,direction
+15,I feel in control of modifying the recommendations.,5,5.0,SSA,control
+15,I feel in control of modifying the recommendations.,4,4.0,SSA,control
+15,I can notice the recommendations going in the direction of the target.,4,6.0,SSA,direction
+15,The recommended songs seem to be in between my preferences and the target.,4,4.0,SSA,direction
+15,I feel like the recommended songs take my preferences into account.,4,3.0,SSA,personalization
+15,I find the songs from the playlist appealing.,4,3.0,SSA,personalization
+15,I would listen to the playlist again.,4,4.0,SSA,personalization
+15,I understand how the recommended songs relate to my musical taste.,4,3.0,SSA,understandability
+15,It is easy to grasp why I received these recommended songs.,4,5.0,SSA,understandability
+15,The recommendation process is clear to me.,4,5.0,SSA,understandability
+15,I enjoy the music from [target taste].,4,3.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,3.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the previous step.,4,3.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the previous step.,3,1.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,1.0,SSA,affinity
+15,I enjoy the music from [target taste].,3,1.0,SSA,affinity
+15,The recommendation process is clear to me.,3,4.0,SSA,understandability
+15,It is easy to grasp why I received these recommended songs.,3,4.0,SSA,understandability
+15,I understand how the recommended songs relate to my musical taste.,3,4.0,SSA,understandability
+15,I would listen to the playlist again.,3,3.0,SSA,personalization
+15,I find the songs from the playlist appealing.,3,4.0,SSA,personalization
+15,I feel like the recommended songs take my preferences into account.,3,4.0,SSA,personalization
+15,The recommended songs seem to be in between my preferences and the target.,3,5.0,SSA,direction
+15,I can notice the recommendations going in the direction of the target.,3,5.0,SSA,direction
+15,I feel in control of modifying the recommendations.,3,5.0,SSA,control
+15,I feel in control of modifying the recommendations.,2,3.0,SSA,control
+15,I can notice the recommendations going in the direction of the target.,2,2.0,SSA,direction
+15,The recommended songs seem to be in between my preferences and the target.,2,4.0,SSA,direction
+15,I feel like the recommended songs take my preferences into account.,2,6.0,SSA,personalization
+15,I find the songs from the playlist appealing.,2,6.0,SSA,personalization
+15,I would listen to the playlist again.,2,6.0,SSA,personalization
+15,I understand how the recommended songs relate to my musical taste.,2,6.0,SSA,understandability
+15,It is easy to grasp why I received these recommended songs.,2,4.0,SSA,understandability
+15,The recommendation process is clear to me.,2,4.0,SSA,understandability
+15,I enjoy the music from [target taste].,2,2.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,1.0,SSA,affinity
+15,My enjoyment of music from [target taste] has increased since the previous step.,2,1.0,SSA,affinity
+15,I enjoy the music from [target taste].,1,1.0,SSA,affinity
+15,The recommendation process is clear to me.,1,5.0,SSA,understandability
+15,It is easy to grasp why I received these recommended songs.,1,6.0,SSA,understandability
+15,I understand how the recommended songs relate to my musical taste.,1,7.0,SSA,understandability
+15,I would listen to the playlist again.,1,6.0,SSA,personalization
+15,I find the songs from the playlist appealing.,1,6.0,SSA,personalization
+15,I feel like the recommended songs take my preferences into account.,1,6.0,SSA,personalization
+15,The recommended songs seem to be in between my preferences and the target.,1,3.0,SSA,direction
+15,I can notice the recommendations going in the direction of the target.,1,2.0,SSA,direction
+15,I feel in control of modifying the recommendations.,1,4.0,SSA,control
+16,This approach supports me in getting to know the new genre.,7,4.0,BS,helpfulness
+16,This approach motivates me to more delve into the new genre.,7,2.0,BS,helpfulness
+16,This approach is useful in exploring a new genre.,7,3.0,BS,helpfulness
+16,I found it easy to modify the recommendations in the recommender.,6,2.0,BS,control
+16,The recommender allows only limited control to modify the recommendations.,6,2.0,BS,control
+16,I feel in control of modifying the recommendations.,6,2.0,BS,control
+16,I can notice the recommendations going in the direction of the target.,6,2.0,BS,direction
+16,The recommended songs seem to be in between my preferences and the target.,6,2.0,BS,direction
+16,I feel like the recommended songs take my preferences into account.,6,2.0,BS,personalization
+16,I find the songs from the playlist appealing.,6,2.0,BS,personalization
+16,I would listen to the playlist again.,6,2.0,BS,personalization
+16,I understand how the recommended songs relate to my musical taste.,6,2.0,BS,understandability
+16,It is easy to grasp why I received these recommended songs.,6,2.0,BS,understandability
+16,The recommendation process is clear to me.,6,2.0,BS,understandability
+16,I enjoy the music from [target taste].,6,2.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,2.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the previous step.,6,2.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the previous step.,5,3.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,3.0,BS,affinity
+16,I enjoy the music from [target taste].,5,3.0,BS,affinity
+16,The recommendation process is clear to me.,5,3.0,BS,understandability
+16,It is easy to grasp why I received these recommended songs.,5,3.0,BS,understandability
+16,I understand how the recommended songs relate to my musical taste.,5,3.0,BS,understandability
+16,I would listen to the playlist again.,5,3.0,BS,personalization
+16,I find the songs from the playlist appealing.,5,3.0,BS,personalization
+16,I feel like the recommended songs take my preferences into account.,5,3.0,BS,personalization
+16,The recommended songs seem to be in between my preferences and the target.,5,3.0,BS,direction
+16,I can notice the recommendations going in the direction of the target.,5,3.0,BS,direction
+16,I feel in control of modifying the recommendations.,5,3.0,BS,control
+16,I feel in control of modifying the recommendations.,4,2.0,BS,control
+16,I can notice the recommendations going in the direction of the target.,4,2.0,BS,direction
+16,The recommended songs seem to be in between my preferences and the target.,4,2.0,BS,direction
+16,I feel like the recommended songs take my preferences into account.,4,2.0,BS,personalization
+16,I find the songs from the playlist appealing.,4,2.0,BS,personalization
+16,I would listen to the playlist again.,4,2.0,BS,personalization
+16,I understand how the recommended songs relate to my musical taste.,4,2.0,BS,understandability
+16,It is easy to grasp why I received these recommended songs.,4,2.0,BS,understandability
+16,The recommendation process is clear to me.,4,2.0,BS,understandability
+16,I enjoy the music from [target taste].,4,2.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,2.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the previous step.,4,2.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the previous step.,3,2.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,2.0,BS,affinity
+16,I enjoy the music from [target taste].,3,2.0,BS,affinity
+16,The recommendation process is clear to me.,3,2.0,BS,understandability
+16,It is easy to grasp why I received these recommended songs.,3,2.0,BS,understandability
+16,I understand how the recommended songs relate to my musical taste.,3,2.0,BS,understandability
+16,I would listen to the playlist again.,3,1.0,BS,personalization
+16,I find the songs from the playlist appealing.,3,2.0,BS,personalization
+16,I feel like the recommended songs take my preferences into account.,3,2.0,BS,personalization
+16,The recommended songs seem to be in between my preferences and the target.,3,2.0,BS,direction
+16,I can notice the recommendations going in the direction of the target.,3,3.0,BS,direction
+16,I feel in control of modifying the recommendations.,3,3.0,BS,control
+16,I feel in control of modifying the recommendations.,2,3.0,BS,control
+16,I can notice the recommendations going in the direction of the target.,2,4.0,BS,direction
+16,The recommended songs seem to be in between my preferences and the target.,2,3.0,BS,direction
+16,I feel like the recommended songs take my preferences into account.,2,3.0,BS,personalization
+16,I find the songs from the playlist appealing.,2,4.0,BS,personalization
+16,I would listen to the playlist again.,2,4.0,BS,personalization
+16,I understand how the recommended songs relate to my musical taste.,2,3.0,BS,understandability
+16,It is easy to grasp why I received these recommended songs.,2,3.0,BS,understandability
+16,The recommendation process is clear to me.,2,4.0,BS,understandability
+16,I enjoy the music from [target taste].,2,5.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,4.0,BS,affinity
+16,My enjoyment of music from [target taste] has increased since the previous step.,2,6.0,BS,affinity
+16,I enjoy the music from [target taste].,1,1.0,BS,affinity
+16,The recommendation process is clear to me.,1,2.0,BS,understandability
+16,It is easy to grasp why I received these recommended songs.,1,2.0,BS,understandability
+16,I understand how the recommended songs relate to my musical taste.,1,2.0,BS,understandability
+16,I would listen to the playlist again.,1,2.0,BS,personalization
+16,I find the songs from the playlist appealing.,1,2.0,BS,personalization
+16,I feel like the recommended songs take my preferences into account.,1,2.0,BS,personalization
+16,The recommended songs seem to be in between my preferences and the target.,1,2.0,BS,direction
+16,I can notice the recommendations going in the direction of the target.,1,6.0,BS,direction
+16,I feel in control of modifying the recommendations.,1,3.0,BS,control
+17,This approach supports me in getting to know the new genre.,7,5.0,SSA,helpfulness
+17,This approach motivates me to more delve into the new genre.,7,5.0,SSA,helpfulness
+17,This approach is useful in exploring a new genre.,7,6.0,SSA,helpfulness
+17,I found it easy to modify the recommendations in the recommender.,6,3.0,SSA,control
+17,The recommender allows only limited control to modify the recommendations.,6,3.0,SSA,control
+17,I feel in control of modifying the recommendations.,6,4.0,SSA,control
+17,I can notice the recommendations going in the direction of the target.,6,6.0,SSA,direction
+17,The recommended songs seem to be in between my preferences and the target.,6,2.0,SSA,direction
+17,I feel like the recommended songs take my preferences into account.,6,2.0,SSA,personalization
+17,I find the songs from the playlist appealing.,6,2.0,SSA,personalization
+17,I would listen to the playlist again.,6,2.0,SSA,personalization
+17,I understand how the recommended songs relate to my musical taste.,6,4.0,SSA,understandability
+17,It is easy to grasp why I received these recommended songs.,6,5.0,SSA,understandability
+17,The recommendation process is clear to me.,6,5.0,SSA,understandability
+17,I enjoy the music from [target taste].,6,4.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,6.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the previous step.,6,3.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the previous step.,5,5.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,6.0,SSA,affinity
+17,I enjoy the music from [target taste].,5,5.0,SSA,affinity
+17,The recommendation process is clear to me.,5,6.0,SSA,understandability
+17,It is easy to grasp why I received these recommended songs.,5,6.0,SSA,understandability
+17,I understand how the recommended songs relate to my musical taste.,5,4.0,SSA,understandability
+17,I would listen to the playlist again.,5,3.0,SSA,personalization
+17,I find the songs from the playlist appealing.,5,4.0,SSA,personalization
+17,I feel like the recommended songs take my preferences into account.,5,4.0,SSA,personalization
+17,The recommended songs seem to be in between my preferences and the target.,5,6.0,SSA,direction
+17,I can notice the recommendations going in the direction of the target.,5,7.0,SSA,direction
+17,I feel in control of modifying the recommendations.,5,4.0,SSA,control
+17,I feel in control of modifying the recommendations.,4,5.0,SSA,control
+17,I can notice the recommendations going in the direction of the target.,4,6.0,SSA,direction
+17,The recommended songs seem to be in between my preferences and the target.,4,4.0,SSA,direction
+17,I feel like the recommended songs take my preferences into account.,4,3.0,SSA,personalization
+17,I find the songs from the playlist appealing.,4,2.0,SSA,personalization
+17,I would listen to the playlist again.,4,2.0,SSA,personalization
+17,I understand how the recommended songs relate to my musical taste.,4,3.0,SSA,understandability
+17,It is easy to grasp why I received these recommended songs.,4,3.0,SSA,understandability
+17,The recommendation process is clear to me.,4,5.0,SSA,understandability
+17,I enjoy the music from [target taste].,4,5.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,5.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the previous step.,4,4.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the previous step.,3,6.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,5.0,SSA,affinity
+17,I enjoy the music from [target taste].,3,5.0,SSA,affinity
+17,The recommendation process is clear to me.,3,7.0,SSA,understandability
+17,It is easy to grasp why I received these recommended songs.,3,6.0,SSA,understandability
+17,I understand how the recommended songs relate to my musical taste.,3,6.0,SSA,understandability
+17,I would listen to the playlist again.,3,5.0,SSA,personalization
+17,I find the songs from the playlist appealing.,3,6.0,SSA,personalization
+17,I feel like the recommended songs take my preferences into account.,3,6.0,SSA,personalization
+17,The recommended songs seem to be in between my preferences and the target.,3,7.0,SSA,direction
+17,I can notice the recommendations going in the direction of the target.,3,5.0,SSA,direction
+17,I feel in control of modifying the recommendations.,3,7.0,SSA,control
+17,I feel in control of modifying the recommendations.,2,6.0,SSA,control
+17,I can notice the recommendations going in the direction of the target.,2,5.0,SSA,direction
+17,The recommended songs seem to be in between my preferences and the target.,2,5.0,SSA,direction
+17,I feel like the recommended songs take my preferences into account.,2,7.0,SSA,personalization
+17,I find the songs from the playlist appealing.,2,7.0,SSA,personalization
+17,I would listen to the playlist again.,2,7.0,SSA,personalization
+17,I understand how the recommended songs relate to my musical taste.,2,7.0,SSA,understandability
+17,It is easy to grasp why I received these recommended songs.,2,6.0,SSA,understandability
+17,The recommendation process is clear to me.,2,6.0,SSA,understandability
+17,I enjoy the music from [target taste].,2,5.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,1.0,SSA,affinity
+17,My enjoyment of music from [target taste] has increased since the previous step.,2,2.0,SSA,affinity
+17,I enjoy the music from [target taste].,1,5.0,SSA,affinity
+17,The recommendation process is clear to me.,1,7.0,SSA,understandability
+17,It is easy to grasp why I received these recommended songs.,1,7.0,SSA,understandability
+17,I understand how the recommended songs relate to my musical taste.,1,6.0,SSA,understandability
+17,I would listen to the playlist again.,1,6.0,SSA,personalization
+17,I find the songs from the playlist appealing.,1,7.0,SSA,personalization
+17,I feel like the recommended songs take my preferences into account.,1,7.0,SSA,personalization
+17,The recommended songs seem to be in between my preferences and the target.,1,6.0,SSA,direction
+17,I can notice the recommendations going in the direction of the target.,1,7.0,SSA,direction
+17,I feel in control of modifying the recommendations.,1,6.0,SSA,control
+9,I enjoy the music from [target taste].,1,6.0,SSA,affinity
+9,The recommendation process is clear to me.,1,6.0,SSA,understandability
+9,It is easy to grasp why I received these recommended songs.,1,6.0,SSA,understandability
+9,I understand how the recommended songs relate to my musical taste.,1,6.0,SSA,understandability
+9,I would listen to the playlist again.,1,5.0,SSA,personalization
+9,I find the songs from the playlist appealing.,1,6.0,SSA,personalization
+9,I feel like the recommended songs take my preferences into account.,1,6.0,SSA,personalization
+9,The recommended songs seem to be in between my preferences and the target.,1,5.0,SSA,direction
+9,I can notice the recommendations going in the direction of the target.,1,6.0,SSA,direction
+9,I feel in control of modifying the recommendations.,1,4.0,SSA,control
+18,This approach supports me in getting to know the new genre.,7,5.0,SSA,helpfulness
+18,This approach motivates me to more delve into the new genre.,7,5.0,SSA,helpfulness
+18,This approach is useful in exploring a new genre.,7,5.0,SSA,helpfulness
+18,I found it easy to modify the recommendations in the recommender.,6,5.0,SSA,control
+18,The recommender allows only limited control to modify the recommendations.,6,5.0,SSA,control
+18,I feel in control of modifying the recommendations.,6,7.0,SSA,control
+18,I can notice the recommendations going in the direction of the target.,6,7.0,SSA,direction
+18,The recommended songs seem to be in between my preferences and the target.,6,7.0,SSA,direction
+18,I feel like the recommended songs take my preferences into account.,6,7.0,SSA,personalization
+18,I find the songs from the playlist appealing.,6,3.0,SSA,personalization
+18,I would listen to the playlist again.,6,1.0,SSA,personalization
+18,I understand how the recommended songs relate to my musical taste.,6,7.0,SSA,understandability
+18,It is easy to grasp why I received these recommended songs.,6,7.0,SSA,understandability
+18,The recommendation process is clear to me.,6,7.0,SSA,understandability
+18,I enjoy the music from [target taste].,6,3.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,3.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the previous step.,6,2.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the previous step.,5,3.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,3.0,SSA,affinity
+18,I enjoy the music from [target taste].,5,4.0,SSA,affinity
+18,The recommendation process is clear to me.,5,7.0,SSA,understandability
+18,It is easy to grasp why I received these recommended songs.,5,7.0,SSA,understandability
+18,I understand how the recommended songs relate to my musical taste.,5,7.0,SSA,understandability
+18,I would listen to the playlist again.,5,1.0,SSA,personalization
+18,I find the songs from the playlist appealing.,5,2.0,SSA,personalization
+18,I feel like the recommended songs take my preferences into account.,5,5.0,SSA,personalization
+18,The recommended songs seem to be in between my preferences and the target.,5,6.0,SSA,direction
+18,I can notice the recommendations going in the direction of the target.,5,5.0,SSA,direction
+18,I feel in control of modifying the recommendations.,5,5.0,SSA,control
+18,I feel in control of modifying the recommendations.,4,7.0,SSA,control
+18,I can notice the recommendations going in the direction of the target.,4,7.0,SSA,direction
+18,The recommended songs seem to be in between my preferences and the target.,4,7.0,SSA,direction
+18,I feel like the recommended songs take my preferences into account.,4,6.0,SSA,personalization
+18,I find the songs from the playlist appealing.,4,3.0,SSA,personalization
+18,I would listen to the playlist again.,4,2.0,SSA,personalization
+18,I understand how the recommended songs relate to my musical taste.,4,7.0,SSA,understandability
+18,It is easy to grasp why I received these recommended songs.,4,7.0,SSA,understandability
+18,The recommendation process is clear to me.,4,7.0,SSA,understandability
+18,I enjoy the music from [target taste].,4,4.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,4.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the previous step.,4,3.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the previous step.,3,3.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,4.0,SSA,affinity
+18,I enjoy the music from [target taste].,3,4.0,SSA,affinity
+18,The recommendation process is clear to me.,3,7.0,SSA,understandability
+18,It is easy to grasp why I received these recommended songs.,3,7.0,SSA,understandability
+18,I understand how the recommended songs relate to my musical taste.,3,6.0,SSA,understandability
+18,I would listen to the playlist again.,3,1.0,SSA,personalization
+18,I find the songs from the playlist appealing.,3,6.0,SSA,personalization
+18,I feel like the recommended songs take my preferences into account.,3,7.0,SSA,personalization
+18,The recommended songs seem to be in between my preferences and the target.,3,7.0,SSA,direction
+18,I can notice the recommendations going in the direction of the target.,3,7.0,SSA,direction
+18,I feel in control of modifying the recommendations.,3,6.0,SSA,control
+18,I feel in control of modifying the recommendations.,2,6.0,SSA,control
+18,I can notice the recommendations going in the direction of the target.,2,7.0,SSA,direction
+18,The recommended songs seem to be in between my preferences and the target.,2,7.0,SSA,direction
+18,I feel like the recommended songs take my preferences into account.,2,6.0,SSA,personalization
+18,I find the songs from the playlist appealing.,2,5.0,SSA,personalization
+18,I would listen to the playlist again.,2,2.0,SSA,personalization
+18,I understand how the recommended songs relate to my musical taste.,2,7.0,SSA,understandability
+18,It is easy to grasp why I received these recommended songs.,2,7.0,SSA,understandability
+18,The recommendation process is clear to me.,2,7.0,SSA,understandability
+18,I enjoy the music from [target taste].,2,5.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,1.0,SSA,affinity
+18,My enjoyment of music from [target taste] has increased since the previous step.,2,5.0,SSA,affinity
+18,I enjoy the music from [target taste].,1,4.0,SSA,affinity
+18,The recommendation process is clear to me.,1,7.0,SSA,understandability
+18,It is easy to grasp why I received these recommended songs.,1,7.0,SSA,understandability
+18,I understand how the recommended songs relate to my musical taste.,1,7.0,SSA,understandability
+18,I would listen to the playlist again.,1,1.0,SSA,personalization
+18,I find the songs from the playlist appealing.,1,5.0,SSA,personalization
+18,I feel like the recommended songs take my preferences into account.,1,7.0,SSA,personalization
+18,The recommended songs seem to be in between my preferences and the target.,1,7.0,SSA,direction
+18,I can notice the recommendations going in the direction of the target.,1,7.0,SSA,direction
+18,I feel in control of modifying the recommendations.,1,4.0,SSA,control
+19,This approach supports me in getting to know the new genre.,7,6.0,SSP,helpfulness
+19,This approach motivates me to more delve into the new genre.,7,6.0,SSP,helpfulness
+19,This approach is useful in exploring a new genre.,7,7.0,SSP,helpfulness
+19,I found it easy to modify the recommendations in the recommender.,6,6.0,SSP,control
+19,The recommender allows only limited control to modify the recommendations.,6,7.0,SSP,control
+19,I feel in control of modifying the recommendations.,6,7.0,SSP,control
+19,I can notice the recommendations going in the direction of the target.,6,6.0,SSP,direction
+19,The recommended songs seem to be in between my preferences and the target.,6,4.0,SSP,direction
+19,I feel like the recommended songs take my preferences into account.,6,5.0,SSP,personalization
+19,I find the songs from the playlist appealing.,6,2.0,SSP,personalization
+19,I would listen to the playlist again.,6,1.0,SSP,personalization
+19,I understand how the recommended songs relate to my musical taste.,6,5.0,SSP,understandability
+19,It is easy to grasp why I received these recommended songs.,6,6.0,SSP,understandability
+19,The recommendation process is clear to me.,6,6.0,SSP,understandability
+19,I enjoy the music from [target taste].,6,3.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,3.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the previous step.,6,3.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the previous step.,5,6.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,7.0,SSP,affinity
+19,I enjoy the music from [target taste].,5,7.0,SSP,affinity
+19,The recommendation process is clear to me.,5,6.0,SSP,understandability
+19,It is easy to grasp why I received these recommended songs.,5,7.0,SSP,understandability
+19,I understand how the recommended songs relate to my musical taste.,5,7.0,SSP,understandability
+19,I would listen to the playlist again.,5,5.0,SSP,personalization
+19,I find the songs from the playlist appealing.,5,5.0,SSP,personalization
+19,I feel like the recommended songs take my preferences into account.,5,6.0,SSP,personalization
+19,The recommended songs seem to be in between my preferences and the target.,5,7.0,SSP,direction
+19,I can notice the recommendations going in the direction of the target.,5,7.0,SSP,direction
+19,I feel in control of modifying the recommendations.,5,6.0,SSP,control
+19,I feel in control of modifying the recommendations.,4,7.0,SSP,control
+19,I can notice the recommendations going in the direction of the target.,4,6.0,SSP,direction
+19,The recommended songs seem to be in between my preferences and the target.,4,7.0,SSP,direction
+19,I feel like the recommended songs take my preferences into account.,4,7.0,SSP,personalization
+19,I find the songs from the playlist appealing.,4,6.0,SSP,personalization
+19,I would listen to the playlist again.,4,6.0,SSP,personalization
+19,I understand how the recommended songs relate to my musical taste.,4,6.0,SSP,understandability
+19,It is easy to grasp why I received these recommended songs.,4,6.0,SSP,understandability
+19,The recommendation process is clear to me.,4,5.0,SSP,understandability
+19,I enjoy the music from [target taste].,4,5.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,6.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the previous step.,4,6.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the previous step.,3,6.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,6.0,SSP,affinity
+19,I enjoy the music from [target taste].,3,6.0,SSP,affinity
+19,The recommendation process is clear to me.,3,6.0,SSP,understandability
+19,It is easy to grasp why I received these recommended songs.,3,6.0,SSP,understandability
+19,I understand how the recommended songs relate to my musical taste.,3,6.0,SSP,understandability
+19,I would listen to the playlist again.,3,6.0,SSP,personalization
+19,I find the songs from the playlist appealing.,3,6.0,SSP,personalization
+19,I feel like the recommended songs take my preferences into account.,3,6.0,SSP,personalization
+19,The recommended songs seem to be in between my preferences and the target.,3,6.0,SSP,direction
+19,I can notice the recommendations going in the direction of the target.,3,6.0,SSP,direction
+19,I feel in control of modifying the recommendations.,3,6.0,SSP,control
+19,I feel in control of modifying the recommendations.,2,5.0,SSP,control
+19,I can notice the recommendations going in the direction of the target.,2,5.0,SSP,direction
+19,The recommended songs seem to be in between my preferences and the target.,2,5.0,SSP,direction
+19,I feel like the recommended songs take my preferences into account.,2,5.0,SSP,personalization
+19,I find the songs from the playlist appealing.,2,1.0,SSP,personalization
+19,I would listen to the playlist again.,2,1.0,SSP,personalization
+19,I understand how the recommended songs relate to my musical taste.,2,6.0,SSP,understandability
+19,It is easy to grasp why I received these recommended songs.,2,6.0,SSP,understandability
+19,The recommendation process is clear to me.,2,6.0,SSP,understandability
+19,I enjoy the music from [target taste].,2,2.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,2.0,SSP,affinity
+19,My enjoyment of music from [target taste] has increased since the previous step.,2,2.0,SSP,affinity
+19,I enjoy the music from [target taste].,1,5.0,SSP,affinity
+19,The recommendation process is clear to me.,1,7.0,SSP,understandability
+19,It is easy to grasp why I received these recommended songs.,1,6.0,SSP,understandability
+19,I understand how the recommended songs relate to my musical taste.,1,6.0,SSP,understandability
+19,I would listen to the playlist again.,1,4.0,SSP,personalization
+19,I find the songs from the playlist appealing.,1,4.0,SSP,personalization
+19,I feel like the recommended songs take my preferences into account.,1,7.0,SSP,personalization
+19,The recommended songs seem to be in between my preferences and the target.,1,7.0,SSP,direction
+19,I can notice the recommendations going in the direction of the target.,1,6.0,SSP,direction
+19,I feel in control of modifying the recommendations.,1,6.0,SSP,control
+3,I enjoy the music from [target taste].,1,3.0,SSA,affinity
+3,The recommendation process is clear to me.,1,4.0,SSA,understandability
+3,It is easy to grasp why I received these recommended songs.,1,4.0,SSA,understandability
+3,I understand how the recommended songs relate to my musical taste.,1,3.0,SSA,understandability
+3,I would listen to the playlist again.,1,2.0,SSA,personalization
+3,I find the songs from the playlist appealing.,1,3.0,SSA,personalization
+3,I feel like the recommended songs take my preferences into account.,1,3.0,SSA,personalization
+3,The recommended songs seem to be in between my preferences and the target.,1,2.0,SSA,direction
+3,I can notice the recommendations going in the direction of the target.,1,3.0,SSA,direction
+3,I feel in control of modifying the recommendations.,1,7.0,SSA,control
+3,I enjoy the music from [target taste].,1,1.0,SSA,affinity
+3,The recommendation process is clear to me.,1,7.0,SSA,understandability
+3,It is easy to grasp why I received these recommended songs.,1,7.0,SSA,understandability
+3,I understand how the recommended songs relate to my musical taste.,1,7.0,SSA,understandability
+3,I would listen to the playlist again.,1,7.0,SSA,personalization
+3,I find the songs from the playlist appealing.,1,7.0,SSA,personalization
+3,I feel like the recommended songs take my preferences into account.,1,4.0,SSA,personalization
+3,The recommended songs seem to be in between my preferences and the target.,1,1.0,SSA,direction
+3,I can notice the recommendations going in the direction of the target.,1,1.0,SSA,direction
+3,I feel in control of modifying the recommendations.,1,7.0,SSA,control
+20,This approach supports me in getting to know the new genre.,7,6.0,BS,helpfulness
+20,This approach motivates me to more delve into the new genre.,7,6.0,BS,helpfulness
+20,This approach is useful in exploring a new genre.,7,5.0,BS,helpfulness
+20,I found it easy to modify the recommendations in the recommender.,6,1.0,BS,control
+20,The recommender allows only limited control to modify the recommendations.,6,1.0,BS,control
+20,I feel in control of modifying the recommendations.,6,1.0,BS,control
+20,I can notice the recommendations going in the direction of the target.,6,1.0,BS,direction
+20,The recommended songs seem to be in between my preferences and the target.,6,1.0,BS,direction
+20,I feel like the recommended songs take my preferences into account.,6,2.0,BS,personalization
+20,I find the songs from the playlist appealing.,6,1.0,BS,personalization
+20,I would listen to the playlist again.,6,1.0,BS,personalization
+20,I understand how the recommended songs relate to my musical taste.,6,1.0,BS,understandability
+20,It is easy to grasp why I received these recommended songs.,6,1.0,BS,understandability
+20,The recommendation process is clear to me.,6,1.0,BS,understandability
+20,I enjoy the music from [target taste].,6,1.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the start of the experiment.,6,1.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the previous step.,6,2.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the previous step.,5,2.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the start of the experiment.,5,3.0,BS,affinity
+20,I enjoy the music from [target taste].,5,1.0,BS,affinity
+20,The recommendation process is clear to me.,5,1.0,BS,understandability
+20,It is easy to grasp why I received these recommended songs.,5,1.0,BS,understandability
+20,I understand how the recommended songs relate to my musical taste.,5,1.0,BS,understandability
+20,I would listen to the playlist again.,5,1.0,BS,personalization
+20,I find the songs from the playlist appealing.,5,2.0,BS,personalization
+20,I feel like the recommended songs take my preferences into account.,5,1.0,BS,personalization
+20,The recommended songs seem to be in between my preferences and the target.,5,1.0,BS,direction
+20,I can notice the recommendations going in the direction of the target.,5,3.0,BS,direction
+20,I feel in control of modifying the recommendations.,5,3.0,BS,control
+20,I feel in control of modifying the recommendations.,4,1.0,BS,control
+20,I can notice the recommendations going in the direction of the target.,4,1.0,BS,direction
+20,The recommended songs seem to be in between my preferences and the target.,4,1.0,BS,direction
+20,I feel like the recommended songs take my preferences into account.,4,1.0,BS,personalization
+20,I find the songs from the playlist appealing.,4,1.0,BS,personalization
+20,I would listen to the playlist again.,4,1.0,BS,personalization
+20,I understand how the recommended songs relate to my musical taste.,4,1.0,BS,understandability
+20,It is easy to grasp why I received these recommended songs.,4,1.0,BS,understandability
+20,The recommendation process is clear to me.,4,1.0,BS,understandability
+20,I enjoy the music from [target taste].,4,1.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the start of the experiment.,4,1.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the previous step.,4,1.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the previous step.,3,1.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the start of the experiment.,3,1.0,BS,affinity
+20,I enjoy the music from [target taste].,3,1.0,BS,affinity
+20,The recommendation process is clear to me.,3,1.0,BS,understandability
+20,It is easy to grasp why I received these recommended songs.,3,1.0,BS,understandability
+20,I understand how the recommended songs relate to my musical taste.,3,1.0,BS,understandability
+20,I would listen to the playlist again.,3,1.0,BS,personalization
+20,I find the songs from the playlist appealing.,3,1.0,BS,personalization
+20,I feel like the recommended songs take my preferences into account.,3,1.0,BS,personalization
+20,The recommended songs seem to be in between my preferences and the target.,3,1.0,BS,direction
+20,I can notice the recommendations going in the direction of the target.,3,1.0,BS,direction
+20,I feel in control of modifying the recommendations.,3,1.0,BS,control
+20,I feel in control of modifying the recommendations.,2,2.0,BS,control
+20,I can notice the recommendations going in the direction of the target.,2,2.0,BS,direction
+20,The recommended songs seem to be in between my preferences and the target.,2,2.0,BS,direction
+20,I feel like the recommended songs take my preferences into account.,2,2.0,BS,personalization
+20,I find the songs from the playlist appealing.,2,2.0,BS,personalization
+20,I would listen to the playlist again.,2,2.0,BS,personalization
+20,I understand how the recommended songs relate to my musical taste.,2,1.0,BS,understandability
+20,It is easy to grasp why I received these recommended songs.,2,4.0,BS,understandability
+20,The recommendation process is clear to me.,2,5.0,BS,understandability
+20,I enjoy the music from [target taste].,2,2.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the start of the experiment.,2,2.0,BS,affinity
+20,My enjoyment of music from [target taste] has increased since the previous step.,2,2.0,BS,affinity
+20,I enjoy the music from [target taste].,1,2.0,BS,affinity
+20,The recommendation process is clear to me.,1,6.0,BS,understandability
+20,It is easy to grasp why I received these recommended songs.,1,4.0,BS,understandability
+20,I understand how the recommended songs relate to my musical taste.,1,4.0,BS,understandability
+20,I would listen to the playlist again.,1,4.0,BS,personalization
+20,I find the songs from the playlist appealing.,1,4.0,BS,personalization
+20,I feel like the recommended songs take my preferences into account.,1,3.0,BS,personalization
+20,The recommended songs seem to be in between my preferences and the target.,1,3.0,BS,direction
+20,I can notice the recommendations going in the direction of the target.,1,2.0,BS,direction
+20,I feel in control of modifying the recommendations.,1,4.0,BS,control
+0,I found it easy to modify the recommendations in the recommender.,5,1.0,BS,control
+0,I found it easy to modify the recommendations in the recommender.,4,1.0,BS,control
+0,I found it easy to modify the recommendations in the recommender.,3,1.0,BS,control
+0,I found it easy to modify the recommendations in the recommender.,2,1.0,BS,control
+0,I found it easy to modify the recommendations in the recommender.,1,1.0,BS,control
+1,I found it easy to modify the recommendations in the recommender.,5,1.0,SSP,control
+1,I found it easy to modify the recommendations in the recommender.,4,2.0,SSP,control
+1,I found it easy to modify the recommendations in the recommender.,3,2.0,SSP,control
+1,I found it easy to modify the recommendations in the recommender.,2,4.0,SSP,control
+1,I found it easy to modify the recommendations in the recommender.,1,4.0,SSP,control
+2,I found it easy to modify the recommendations in the recommender.,5,2.0,SSA,control
+2,I found it easy to modify the recommendations in the recommender.,4,4.0,SSA,control
+2,I found it easy to modify the recommendations in the recommender.,3,4.0,SSA,control
+2,I found it easy to modify the recommendations in the recommender.,2,4.0,SSA,control
+2,I found it easy to modify the recommendations in the recommender.,1,2.0,SSA,control
+3,I found it easy to modify the recommendations in the recommender.,5,4.0,SSA,control
+3,I found it easy to modify the recommendations in the recommender.,4,5.0,SSA,control
+3,I found it easy to modify the recommendations in the recommender.,3,4.0,SSA,control
+3,I found it easy to modify the recommendations in the recommender.,2,3.0,SSA,control
+4,I found it easy to modify the recommendations in the recommender.,5,1.0,BS,control
+4,I found it easy to modify the recommendations in the recommender.,4,1.0,BS,control
+4,I found it easy to modify the recommendations in the recommender.,3,1.0,BS,control
+4,I found it easy to modify the recommendations in the recommender.,2,3.0,BS,control
+4,I found it easy to modify the recommendations in the recommender.,1,1.0,BS,control
+5,I found it easy to modify the recommendations in the recommender.,5,2.0,BS,control
+5,I found it easy to modify the recommendations in the recommender.,4,2.0,BS,control
+5,I found it easy to modify the recommendations in the recommender.,3,1.0,BS,control
+5,I found it easy to modify the recommendations in the recommender.,2,2.0,BS,control
+6,I found it easy to modify the recommendations in the recommender.,5,1.0,SSP,control
+5,I found it easy to modify the recommendations in the recommender.,1,1.0,BS,control
+7,I found it easy to modify the recommendations in the recommender.,5,1.0,SSP,control
+7,I found it easy to modify the recommendations in the recommender.,4,4.0,SSP,control
+7,I found it easy to modify the recommendations in the recommender.,3,6.0,SSP,control
+7,I found it easy to modify the recommendations in the recommender.,2,2.0,SSP,control
+7,I found it easy to modify the recommendations in the recommender.,1,4.0,SSP,control
+8,I found it easy to modify the recommendations in the recommender.,5,2.0,SSP,control
+6,I found it easy to modify the recommendations in the recommender.,4,1.0,SSP,control
+8,I found it easy to modify the recommendations in the recommender.,4,4.0,SSP,control
+8,I found it easy to modify the recommendations in the recommender.,3,6.0,SSP,control
+8,I found it easy to modify the recommendations in the recommender.,2,3.0,SSP,control
+8,I found it easy to modify the recommendations in the recommender.,1,4.0,SSP,control
+6,I found it easy to modify the recommendations in the recommender.,3,4.0,SSP,control
+6,I found it easy to modify the recommendations in the recommender.,2,6.0,SSP,control
+6,I found it easy to modify the recommendations in the recommender.,1,3.0,SSP,control
+9,I found it easy to modify the recommendations in the recommender.,5,4.0,SSA,control
+9,I found it easy to modify the recommendations in the recommender.,4,7.0,SSA,control
+10,I found it easy to modify the recommendations in the recommender.,5,5.0,SSA,control
+10,I found it easy to modify the recommendations in the recommender.,4,4.0,SSA,control
+10,I found it easy to modify the recommendations in the recommender.,3,2.0,SSA,control
+10,I found it easy to modify the recommendations in the recommender.,2,3.0,SSA,control
+10,I found it easy to modify the recommendations in the recommender.,1,3.0,SSA,control
+11,I found it easy to modify the recommendations in the recommender.,5,1.0,SSP,control
+11,I found it easy to modify the recommendations in the recommender.,4,3.0,SSP,control
+11,I found it easy to modify the recommendations in the recommender.,3,2.0,SSP,control
+11,I found it easy to modify the recommendations in the recommender.,2,3.0,SSP,control
+11,I found it easy to modify the recommendations in the recommender.,1,3.0,SSP,control
+12,I found it easy to modify the recommendations in the recommender.,5,3.0,SSP,control
+12,I found it easy to modify the recommendations in the recommender.,4,4.0,SSP,control
+12,I found it easy to modify the recommendations in the recommender.,3,2.0,SSP,control
+12,I found it easy to modify the recommendations in the recommender.,2,3.0,SSP,control
+12,I found it easy to modify the recommendations in the recommender.,1,5.0,SSP,control
+13,I found it easy to modify the recommendations in the recommender.,5,1.0,SSP,control
+13,I found it easy to modify the recommendations in the recommender.,4,2.0,SSP,control
+13,I found it easy to modify the recommendations in the recommender.,3,2.0,SSP,control
+14,I found it easy to modify the recommendations in the recommender.,5,2.0,BS,control
+14,I found it easy to modify the recommendations in the recommender.,4,3.0,BS,control
+14,I found it easy to modify the recommendations in the recommender.,3,1.0,BS,control
+14,I found it easy to modify the recommendations in the recommender.,2,1.0,BS,control
+9,I found it easy to modify the recommendations in the recommender.,3,3.0,SSA,control
+14,I found it easy to modify the recommendations in the recommender.,1,2.0,BS,control
+9,I found it easy to modify the recommendations in the recommender.,2,3.0,SSA,control
+13,I found it easy to modify the recommendations in the recommender.,2,2.0,SSP,control
+13,I found it easy to modify the recommendations in the recommender.,1,3.0,SSP,control
+15,I found it easy to modify the recommendations in the recommender.,5,4.0,SSA,control
+15,I found it easy to modify the recommendations in the recommender.,4,3.0,SSA,control
+15,I found it easy to modify the recommendations in the recommender.,3,4.0,SSA,control
+15,I found it easy to modify the recommendations in the recommender.,2,1.0,SSA,control
+15,I found it easy to modify the recommendations in the recommender.,1,2.0,SSA,control
+16,I found it easy to modify the recommendations in the recommender.,5,3.0,BS,control
+16,I found it easy to modify the recommendations in the recommender.,4,1.0,BS,control
+16,I found it easy to modify the recommendations in the recommender.,3,3.0,BS,control
+16,I found it easy to modify the recommendations in the recommender.,2,2.0,BS,control
+16,I found it easy to modify the recommendations in the recommender.,1,2.0,BS,control
+17,I found it easy to modify the recommendations in the recommender.,5,4.0,SSA,control
+17,I found it easy to modify the recommendations in the recommender.,4,4.0,SSA,control
+17,I found it easy to modify the recommendations in the recommender.,3,6.0,SSA,control
+17,I found it easy to modify the recommendations in the recommender.,2,4.0,SSA,control
+17,I found it easy to modify the recommendations in the recommender.,1,5.0,SSA,control
+9,I found it easy to modify the recommendations in the recommender.,1,4.0,SSA,control
+18,I found it easy to modify the recommendations in the recommender.,5,4.0,SSA,control
+18,I found it easy to modify the recommendations in the recommender.,4,6.0,SSA,control
+18,I found it easy to modify the recommendations in the recommender.,3,5.0,SSA,control
+18,I found it easy to modify the recommendations in the recommender.,2,6.0,SSA,control
+18,I found it easy to modify the recommendations in the recommender.,1,3.0,SSA,control
+19,I found it easy to modify the recommendations in the recommender.,5,5.0,SSP,control
+19,I found it easy to modify the recommendations in the recommender.,4,4.0,SSP,control
+19,I found it easy to modify the recommendations in the recommender.,3,6.0,SSP,control
+19,I found it easy to modify the recommendations in the recommender.,2,3.0,SSP,control
+19,I found it easy to modify the recommendations in the recommender.,1,5.0,SSP,control
+3,I found it easy to modify the recommendations in the recommender.,1,7.0,SSA,control
+3,I found it easy to modify the recommendations in the recommender.,1,5.0,SSA,control
+20,I found it easy to modify the recommendations in the recommender.,5,3.0,BS,control
+20,I found it easy to modify the recommendations in the recommender.,4,1.0,BS,control
+20,I found it easy to modify the recommendations in the recommender.,3,1.0,BS,control
+20,I found it easy to modify the recommendations in the recommender.,2,1.0,BS,control
+20,I found it easy to modify the recommendations in the recommender.,1,2.0,BS,control
+0,The recommender allows only limited control to modify the recommendations.,5,3.0,BS,control
+0,The recommender allows only limited control to modify the recommendations.,4,5.0,BS,control
+0,The recommender allows only limited control to modify the recommendations.,3,7.0,BS,control
+0,The recommender allows only limited control to modify the recommendations.,2,2.0,BS,control
+0,The recommender allows only limited control to modify the recommendations.,1,7.0,BS,control
+1,The recommender allows only limited control to modify the recommendations.,5,6.0,SSP,control
+1,The recommender allows only limited control to modify the recommendations.,4,5.0,SSP,control
+1,The recommender allows only limited control to modify the recommendations.,3,1.0,SSP,control
+1,The recommender allows only limited control to modify the recommendations.,2,4.0,SSP,control
+1,The recommender allows only limited control to modify the recommendations.,1,5.0,SSP,control
+2,The recommender allows only limited control to modify the recommendations.,5,7.0,SSA,control
+2,The recommender allows only limited control to modify the recommendations.,4,3.0,SSA,control
+2,The recommender allows only limited control to modify the recommendations.,3,5.0,SSA,control
+2,The recommender allows only limited control to modify the recommendations.,2,4.0,SSA,control
+2,The recommender allows only limited control to modify the recommendations.,1,2.0,SSA,control
+3,The recommender allows only limited control to modify the recommendations.,5,4.0,SSA,control
+3,The recommender allows only limited control to modify the recommendations.,4,5.0,SSA,control
+3,The recommender allows only limited control to modify the recommendations.,3,7.0,SSA,control
+3,The recommender allows only limited control to modify the recommendations.,2,5.0,SSA,control
+4,The recommender allows only limited control to modify the recommendations.,5,6.0,BS,control
+4,The recommender allows only limited control to modify the recommendations.,4,7.0,BS,control
+4,The recommender allows only limited control to modify the recommendations.,3,6.0,BS,control
+4,The recommender allows only limited control to modify the recommendations.,2,6.0,BS,control
+4,The recommender allows only limited control to modify the recommendations.,1,4.0,BS,control
+5,The recommender allows only limited control to modify the recommendations.,5,4.0,BS,control
+5,The recommender allows only limited control to modify the recommendations.,4,3.0,BS,control
+5,The recommender allows only limited control to modify the recommendations.,3,5.0,BS,control
+5,The recommender allows only limited control to modify the recommendations.,2,7.0,BS,control
+6,The recommender allows only limited control to modify the recommendations.,5,7.0,SSP,control
+5,The recommender allows only limited control to modify the recommendations.,1,2.0,BS,control
+7,The recommender allows only limited control to modify the recommendations.,5,0.0,SSP,control
+7,The recommender allows only limited control to modify the recommendations.,4,4.0,SSP,control
+7,The recommender allows only limited control to modify the recommendations.,3,0.0,SSP,control
+7,The recommender allows only limited control to modify the recommendations.,2,6.0,SSP,control
+7,The recommender allows only limited control to modify the recommendations.,1,1.0,SSP,control
+8,The recommender allows only limited control to modify the recommendations.,5,2.0,SSP,control
+6,The recommender allows only limited control to modify the recommendations.,4,7.0,SSP,control
+8,The recommender allows only limited control to modify the recommendations.,4,6.0,SSP,control
+8,The recommender allows only limited control to modify the recommendations.,3,6.0,SSP,control
+8,The recommender allows only limited control to modify the recommendations.,2,7.0,SSP,control
+8,The recommender allows only limited control to modify the recommendations.,1,3.0,SSP,control
+6,The recommender allows only limited control to modify the recommendations.,3,3.0,SSP,control
+6,The recommender allows only limited control to modify the recommendations.,2,4.0,SSP,control
+6,The recommender allows only limited control to modify the recommendations.,1,6.0,SSP,control
+9,The recommender allows only limited control to modify the recommendations.,5,3.0,SSA,control
+9,The recommender allows only limited control to modify the recommendations.,4,3.0,SSA,control
+10,The recommender allows only limited control to modify the recommendations.,5,3.0,SSA,control
+10,The recommender allows only limited control to modify the recommendations.,4,1.0,SSA,control
+10,The recommender allows only limited control to modify the recommendations.,3,4.0,SSA,control
+10,The recommender allows only limited control to modify the recommendations.,2,2.0,SSA,control
+10,The recommender allows only limited control to modify the recommendations.,1,3.0,SSA,control
+11,The recommender allows only limited control to modify the recommendations.,5,6.0,SSP,control
+11,The recommender allows only limited control to modify the recommendations.,4,5.0,SSP,control
+11,The recommender allows only limited control to modify the recommendations.,3,6.0,SSP,control
+11,The recommender allows only limited control to modify the recommendations.,2,1.0,SSP,control
+11,The recommender allows only limited control to modify the recommendations.,1,5.0,SSP,control
+12,The recommender allows only limited control to modify the recommendations.,5,0.0,SSP,control
+12,The recommender allows only limited control to modify the recommendations.,4,3.0,SSP,control
+12,The recommender allows only limited control to modify the recommendations.,3,3.0,SSP,control
+12,The recommender allows only limited control to modify the recommendations.,2,6.0,SSP,control
+12,The recommender allows only limited control to modify the recommendations.,1,4.0,SSP,control
+13,The recommender allows only limited control to modify the recommendations.,5,4.0,SSP,control
+13,The recommender allows only limited control to modify the recommendations.,4,6.0,SSP,control
+13,The recommender allows only limited control to modify the recommendations.,3,5.0,SSP,control
+14,The recommender allows only limited control to modify the recommendations.,5,6.0,BS,control
+14,The recommender allows only limited control to modify the recommendations.,4,4.0,BS,control
+14,The recommender allows only limited control to modify the recommendations.,3,6.0,BS,control
+14,The recommender allows only limited control to modify the recommendations.,2,6.0,BS,control
+9,The recommender allows only limited control to modify the recommendations.,3,3.0,SSA,control
+14,The recommender allows only limited control to modify the recommendations.,1,6.0,BS,control
+9,The recommender allows only limited control to modify the recommendations.,2,5.0,SSA,control
+13,The recommender allows only limited control to modify the recommendations.,2,5.0,SSP,control
+13,The recommender allows only limited control to modify the recommendations.,1,7.0,SSP,control
+15,The recommender allows only limited control to modify the recommendations.,5,3.0,SSA,control
+15,The recommender allows only limited control to modify the recommendations.,4,4.0,SSA,control
+15,The recommender allows only limited control to modify the recommendations.,3,-1.0,SSA,control
+15,The recommender allows only limited control to modify the recommendations.,2,7.0,SSA,control
+15,The recommender allows only limited control to modify the recommendations.,1,5.0,SSA,control
+16,The recommender allows only limited control to modify the recommendations.,5,7.0,BS,control
+16,The recommender allows only limited control to modify the recommendations.,4,5.0,BS,control
+16,The recommender allows only limited control to modify the recommendations.,3,2.0,BS,control
+16,The recommender allows only limited control to modify the recommendations.,2,4.0,BS,control
+16,The recommender allows only limited control to modify the recommendations.,1,7.0,BS,control
+17,The recommender allows only limited control to modify the recommendations.,5,2.0,SSA,control
+17,The recommender allows only limited control to modify the recommendations.,4,2.0,SSA,control
+17,The recommender allows only limited control to modify the recommendations.,3,3.0,SSA,control
+17,The recommender allows only limited control to modify the recommendations.,2,6.0,SSA,control
+17,The recommender allows only limited control to modify the recommendations.,1,5.0,SSA,control
+9,The recommender allows only limited control to modify the recommendations.,1,3.0,SSA,control
+18,The recommender allows only limited control to modify the recommendations.,5,2.0,SSA,control
+18,The recommender allows only limited control to modify the recommendations.,4,2.0,SSA,control
+18,The recommender allows only limited control to modify the recommendations.,3,-1.0,SSA,control
+18,The recommender allows only limited control to modify the recommendations.,2,2.0,SSA,control
+18,The recommender allows only limited control to modify the recommendations.,1,3.0,SSA,control
+19,The recommender allows only limited control to modify the recommendations.,5,3.0,SSP,control
+19,The recommender allows only limited control to modify the recommendations.,4,2.0,SSP,control
+19,The recommender allows only limited control to modify the recommendations.,3,3.0,SSP,control
+19,The recommender allows only limited control to modify the recommendations.,2,5.0,SSP,control
+19,The recommender allows only limited control to modify the recommendations.,1,0.0,SSP,control
+3,The recommender allows only limited control to modify the recommendations.,1,-1.0,SSA,control
+3,The recommender allows only limited control to modify the recommendations.,1,0.0,SSA,control
+20,The recommender allows only limited control to modify the recommendations.,5,4.0,BS,control
+20,The recommender allows only limited control to modify the recommendations.,4,7.0,BS,control
+20,The recommender allows only limited control to modify the recommendations.,3,7.0,BS,control
+20,The recommender allows only limited control to modify the recommendations.,2,6.0,BS,control
+20,The recommender allows only limited control to modify the recommendations.,1,5.0,BS,control
