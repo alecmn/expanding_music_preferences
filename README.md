@@ -4,7 +4,9 @@ This repository contains supplementary content to aid in the understanding of ou
 
 ## CKG Embeddings
 
-Details on the size and contents of the CKG can be found in `ckg_schema.png`. Embeddings can be found in `embeddings.pkl` and were generated from the CKG using Node2Vec that incorporates edge weights in its random walks with these parameters:
+![Schema of CKG containing ~120K Song](/Figures/ckg_schema.png "CKG Schema")
+
+Details on the size and contents of the CKG can be found in the schema above. Embeddings can be found in `embeddings.pkl` and were generated from the CKG using Node2Vec that incorporates edge weights in its random walks with these parameters:
 
 - dimensions = 128
 - walk-length = 40-
@@ -12,7 +14,9 @@ Details on the size and contents of the CKG can be found in `ckg_schema.png`. Em
 - p = 0.5
 - q = 0.5
 
-We include an additional figure `embedding_visualization.png` displaying a t-SNE visualization of the node2vec embeddings showing the separation of genres. For added context the number of songs per genre are below.
+![node2vec seperates genres well](/Figures/embedding_visualization.png "T-SNE of node2vec embeddings")
+
+This is a figure displaying a t-SNE visualization of the node2vec embeddings showing the separation of genres. For added context the number of songs per genre are below.
 
 | Genre               | # Songs |
 | ------------------- | ------- |
@@ -58,9 +62,30 @@ All code for generating paths, sampling paths and updating their distributions c
 
 ## User Experiments
 
-The jupyter notebook `results_analysis.ipynb` contains the code used for analyzing the results of the user experiments from the `responses.csv` and `user_likes.csv` files. For more detail on the user experiment we show several screenshots of the experiment platform in the `Figures` folder and we provide an overview of the subjective factors and their survey questions.
+The jupyter notebook `results_analysis.ipynb` contains the code used for analyzing the results of the user experiments from the `responses.csv` and `user_likes.csv` files. For more detail on the user experiment we show several screenshots of the experiment platform and we provide an overview of the subjective factors and their survey questions.
 
-| **EXP/SSA**                | **Question item**                                                                          |
+### Opening Screen with instruction for the user
+
+![Opening Screen with instruction for the user.](/Figures/opening_screen.png "Opening Screen with instruction for the user")
+
+### User picks their favorite genres
+![User picks their favorite genres](/Figures/experiment_initial_preferences.png "User picks their favorite genres")
+
+### User picks their favorite songs
+![User picks their favorite songs](/Figures/experiment_init.png "User picks their favorite songs")
+
+### User picks their target genre
+![User picks their target genre](/Figures/experiment_target.png "User picks their target genre")
+
+### Song recommendations
+![User receives song recommendations](/Figures/experiment_recommendations.png "User receives song recommendations")
+
+### Post-step survey questions
+![After every round the user answers survey questions](/Figures/experiment_survey.png "After every round the user answers survey questions")
+
+### Survey Questions Overview
+
+| **Factor**                | **Question item**                                                                          |
 | -------------------------- | ------------------------------------------------------------------------------------------ |
 | **Perceived helpfulness**  | This approach supports me in getting to know the new genre.                                |
 |                            | This approach motivates me to more delve into the new genre.                               |
