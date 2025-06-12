@@ -4,7 +4,7 @@ This repository contains supplementary content to aid in the understanding of ou
 
 ## CKG Embeddings
 
-![Schema of CKG containing ~120K Song](/Figures/ckg_schema.png "CKG Schema")
+![Schema of CKG containing ~120K Song](Figures/ckg_schema.png "CKG Schema")
 
 Details on the size and contents of the CKG can be found in the schema above. Embeddings can be found in `embeddings.pkl` and were generated from the CKG using Node2Vec that incorporates edge weights in its random walks with these parameters:
 
@@ -14,7 +14,7 @@ Details on the size and contents of the CKG can be found in the schema above. Em
 - p = 0.5
 - q = 0.5
 
-![node2vec seperates genres well](/Figures/embedding_visualization.png "T-SNE of node2vec embeddings")
+![node2vec seperates genres well](Figures/embedding_visualization.png "T-SNE of node2vec embeddings")
 
 This is a figure displaying a t-SNE visualization of the node2vec embeddings showing the separation of genres. For added context the number of songs per genre are below.
 
@@ -66,22 +66,22 @@ The jupyter notebook `results_analysis.ipynb` contains the code used for analyzi
 
 ### Opening Screen with instruction for the user
 
-![Opening Screen with instruction for the user.](/Figures/opening_screen.png "Opening Screen with instruction for the user")
+![Opening Screen with instruction for the user.](Figures/opening_screen.png "Opening Screen with instruction for the user")
 
 ### User picks their favorite genres
-![User picks their favorite genres](/Figures/experiment_initial_preferences.png "User picks their favorite genres")
+![User picks their favorite genres](Figures/experiment_initial_preferences.png "User picks their favorite genres")
 
 ### User picks their favorite songs
-![User picks their favorite songs](/Figures/experiment_init.png "User picks their favorite songs")
+![User picks their favorite songs](Figures/experiment_init.png "User picks their favorite songs")
 
 ### User picks their target genre
-![User picks their target genre](/Figures/experiment_target.png "User picks their target genre")
+![User picks their target genre](Figures/experiment_target.png "User picks their target genre")
 
 ### Song recommendations
-![User receives song recommendations](/Figures/experiment_recommendations.png "User receives song recommendations")
+![User receives song recommendations](Figures/experiment_recommendations.png "User receives song recommendations")
 
 ### Post-step survey questions
-![After every round the user answers survey questions](/Figures/experiment_survey.png "After every round the user answers survey questions")
+![After every round the user answers survey questions](Figures/experiment_survey.png "After every round the user answers survey questions")
 
 ### Survey Questions Overview
 
